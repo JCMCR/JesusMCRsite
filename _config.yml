@@ -12,73 +12,114 @@ color:
   secondary: 8a0000
   secondary-dark: 333
 
-# Team names, titles and social links
+# Team names, titles and social links. Any font awesome icon can be used (drop the fa)
 people:
 - name: Rebecca Forster
-  pic: 1
+  pic: Rebecca-Forster-150x150
   position: MCR President (mcr-president)
   social:
-    - title: email
-      url: test
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: paper-plane
+      url: mailto:mcr-president@jesus.cam.ac.uk
 
 - name: Chris de Saxe
-  pic: 2
+  pic: Chris-de-Saxe-150x150
   position: Vice-president
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: paper-plane
+      url: mailto:mcr-secretaryjesus.cam.ac.uk
 
 - name: Christine van Hooft
-  pic: 3
+  pic: Christine-van-Hooft-150x150
   position: Secretary
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: paper-plane
+      url:
 
 - name: Marcus Webb
-  pic: 3
+  pic: Marcus-Webb-150x150
   position: Treasurer (mcr-treasurer)
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: paper-plane
+      url:
 
 - name: Chris Brown
-  pic: 3
+  pic: Chris-Brown-150x150
   position: Social officer (mcr-social)
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: paper-plane
+      url:
 
 - name: John Lees
-  pic: 3
+  pic: John-Lees-150x150
   position: Social officer (mcr-social)
   social:
-    - title: twitter
+    - title: paper-plane
       url:
-    - title: facebook
+
+- name: Kate Crowcroft
+  pic: Kate-Crowcroft-150x150
+  position: Women's welfare
+  social:
+    - title: paper-plane
       url:
-    - title: google-plus
-      url: #
+
+- name: Junhao Zhang
+  pic: Junhao-Zhang-150x150
+  position: Men's welfare
+  social:
+    - title: paper-plane
+      url:
+
+- name: C.J. Rauch
+  pic: CJ-Rauch-150x150
+  position: LGBT+ Welfare
+  social:
+    - title: paper-plane
+      url:
+
+- name: Pu Liu
+  pic: Pu-Liu-150x150
+  position: International officer
+  social:
+    - title: paper-plane
+      url:
+
+- name: Jeremy Minton
+  pic: Jeremy-Minton-150x150
+  position: Academic officer
+  social:
+    - title: paper-plane
+      url: mailto:mcr-academic@jesus.cam.ac.uk
+
+- name: Yee-Chien Chang Webb
+  pic: Yee-Chien-Chang-Webb-150x150
+  position: Green officer
+  social:
+    - title: paper-plane
+      url:
+
+- name: Jan Beitner
+  pic: Jan-Beitner-150x150
+  position: College council
+  social:
+    - title: paper-plane
+      url:
+
+- name: Alex Evans
+  pic: Alex-Evans-150x150
+  position: Academic officer
+  social:
+    - title: paper-plane
+      url: mailto:mcr-sports@jesus.cam.ac.uk
+
+- name: James Black
+  pic: JamesB-150x150
+  position: MCR webmaster
+  social:
+    - title: github
+      url: https://github.com/epijim
+    - title: paper-plane
+      url: mailto:mcr-webmaster@jesus.cam.ac.uk
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

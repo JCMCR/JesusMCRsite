@@ -1,15 +1,13 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: MCR wiki
+subtitle: The go to resource for graduate Jesuans
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
 ---
+
+For a wealth of information about the MCR, College, the city of Cambridge,
+ please take a look at the <a href="http://mcr.jesus.cam.ac.uk/mcrwiki/index.php?title=Main_Page" target="_blank">MCR Wiki page (link opens a new tab/page)</a>.
