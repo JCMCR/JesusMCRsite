@@ -3,9 +3,9 @@ title: Welfare
 subtitle: Find someone to listen
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: 2014-07-19
 img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+thumbnail: welfare_400_289.png
 alt: image-alt
 
 ---
@@ -15,7 +15,7 @@ The links on the right provide further information related to a variety of welfa
 If you have any comments on these resources, or feel that we have missed something, please contact the Welfare Officers below. The members of the MCR Welfare team (welfare officers, international officer and LGBT liaison) can be contacted by email, pigeonhole, or in person. Their details can be found on the committee page.
 
 Our <a href="http://mcr.jesus.cam.ac.uk/mcrwiki/index.php?title=Welfare" target="_blank">MCR wiki</a> has more information on where you can find help.
-
+g
 The Graduate Union and the Cambridge University Students’ Union also provide Welfare advice:
 
 <a href="http://www.gradunion.cam.ac.uk/support/welfare/" target="_blank">GU Welfare</a>

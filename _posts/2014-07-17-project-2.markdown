@@ -1,11 +1,11 @@
 ---
-title: GradCon / 3 minute thesis
+title: GradCon / 3MT
 subtitle: Celebrating our research
 layout: default
 modal-id: 2
 date: 2014-07-17
 img: escape.png
-thumbnail: escape-thumbnail.png
+thumbnail: academic_400_289.gif
 alt: image-alt
 
 ---

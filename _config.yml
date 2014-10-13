@@ -1,5 +1,8 @@
 url: http://0.0.0.0:4000
-#baseurl: /agency-jekyll-theme/
+#baseurl: /MCRsite_test
+
+source:      "/Users/Jimmy/JesusMCRsite"
+destination: "/Users/Jimmy/MCRsite_test"
 
 # Site settings
 title: Jesus College MCR

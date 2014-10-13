@@ -1,11 +1,11 @@
 ---
 title: MCR wiki
-subtitle: The go to resource for graduate Jesuans
+subtitle: The go to resource for grads
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: dreams.png
-thumbnail: dreams-thumbnail.png
+thumbnail: wiki_400_289.png
 alt: image-alt
 ---
 

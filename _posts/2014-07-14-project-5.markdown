@@ -1,15 +1,16 @@
 ---
-title: Punting
-subtitle: Book the graduate punt
+title: Book an event/punt
+subtitle: Access the MCR booking page
 layout: default
 modal-id: 5
 date: 2014-07-14
 img: startup-framework.png
 thumbnail: startup-framework-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
+
+The MCR has a dedicated <a href="http://mcr.jesus.cam.ac.uk/EntsSite/" target="_blank">Ents site</a>
+ that allows grads to <a href="http://mcr.jesus.cam.ac.uk/EntsSite/puntbooking/" target="_blank">book the punt</a>,
+ as well as <a href="http://mcr.jesus.cam.ac.uk/EntsSite/" target="_blank">tickets to MCR run events</a>.
+ Once you arrive at Cambridge you will be given a Raven account, that will give you access.

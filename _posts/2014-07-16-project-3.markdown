@@ -1,6 +1,6 @@
 ---
-title: Graduate hall
-subtitle: A weekly 4-course meal for grads
+title: Grad hall and swaps
+subtitle: Dining options for grads
 layout: default
 modal-id: 3
 date: 2014-07-16
