@@ -1,0 +1,47 @@
+---
+title: 3MT 2014
+layout: academicpost
+categories: 3mt
+modal-id: 1
+
+---
+
+## 2014 Prize winners
+
+### Luke Burke - Treating obesity with drugs; Fat or fiction?
+
+<iframe src="//player.vimeo.com/video/96837993" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### Goylette Chami - Increasing drug distribution in Uganda with social networks
+
+<iframe src="//player.vimeo.com/video/96833508" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### Jack Davies - Insider trading and gentlemanly capitalism
+
+<iframe src="//player.vimeo.com/video/97101569" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+## All speakers
+
+### David Cross - The causal power of the UN security council
+
+<iframe src="//player.vimeo.com/video/97262230" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### Christopher de Saxe - Applications of computer vision systems to heavy goods vehicles
+
+<iframe src="//player.vimeo.com/video/97261873" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### Sean McMahon - The changing pattern of alignment in the South China Sea
+
+<iframe src="//player.vimeo.com/video/97260147" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### Lorenzo D'arsie - Nano-electrodes for neuronal network probing
+
+<iframe src="//player.vimeo.com/video/97259016" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### CJ Rauch - Teacher education and democratic citizenship education
+
+<iframe src="//player.vimeo.com/video/97258687" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### Peter Gardner - What is a language?
+
+<iframe src="//player.vimeo.com/video/97101485" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
