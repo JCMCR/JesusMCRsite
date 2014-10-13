@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Gradcon</h2>
+            <h3 class="section-subheading text-muted">Previous Graduate Conferences.</h3>
+        </div>
+    </div>
+    <div class="row">
+    {% for post in site.categories.gradcon %}
+        <div class="col-md-4 col-sm-6 services-item">
+            <a href="#servicesModal{{ post.modal-id }}" class="services-link" data-toggle="modal">
+                <div class="services-hover">
+                    <div class="services-hover-content">
+                        <i class="fa fa-plus fa-3x"></i>
+                    </div>
+                </div>
+                <img src="img/services/{{ post.thumbnail }}" class="img-responsive" alt="">
+            </a>
+            <div class="services-caption">
+                <h4>{{ post.title }}</h4>
+                <p class="text-muted">{{ post.subtitle }}</p>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+</div>
+
+</body>
+</html>

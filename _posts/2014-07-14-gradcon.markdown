@@ -1,0 +1,17 @@
+---
+title: Book an event/punt
+subtitle: Access the MCR booking page
+layout: default
+categories: gradcon
+modal-id: 1
+date: 2014-07-14
+img: punting_400_289.jpg
+thumbnail: punting_400_289.jpg
+alt: image-alt
+
+---
+
+The MCR has a dedicated <a href="http://mcr.jesus.cam.ac.uk/EntsSite/" target="_blank">Ents site</a>
+ that allows grads to <a href="http://mcr.jesus.cam.ac.uk/EntsSite/puntbooking/" target="_blank">book the punt</a>,
+ as well as <a href="http://mcr.jesus.cam.ac.uk/EntsSite/" target="_blank">tickets to MCR run events</a>.
+ Once you arrive at Cambridge you will be given a Raven account, that will give you access.

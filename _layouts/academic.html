@@ -1,20 +1,43 @@
-<div id="main" role="main">
-	<article class="wrap" itemscope itemtype="http://schema.org/Article">
-		{% if page.image.feature %}
-		<div class="page-feature">
-			<div class="page-image">
-				<img src="{{ site.url }}/img/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
-			</div><!-- /.page-image -->
-		</div><!-- /.page-feature -->
-		{% endif %}
-		<div class="page-title">
-			<h1>{{ page.title }}</h1>
-		</div>
-		<div class="inner-wrap">
-			<div id="content" class="page-content" itemprop="articleBody">
-				{{ content }}
-				<hr />
-			</div><!-- /.content -->
-		</div><!-- /.inner-wrap -->
-	</article><!-- ./wrap -->
-</div><!-- /#main -->
+<!DOCTYPE html>
+<html>
+
+	{% include head.html %}
+
+
+		<body>
+		{% for post in site.categories.gradcon %}
+				<div class="col-md-4 col-sm-6 services-item">
+						<a href="#servicesModal{{ post.modal-id }}" class="services-link" data-toggle="modal">
+								<div class="services-hover">
+										<div class="services-hover-content">
+												<i class="fa fa-plus fa-3x"></i>
+										</div>
+								</div>
+								<img src="img/services/{{ post.thumbnail }}" class="img-responsive" alt="">
+						</a>
+						<div class="services-caption">
+								<h4>{{ post.title }}</h4>
+								<p class="text-muted">{{ post.subtitle }}</p>
+						</div>
+				</div>
+		{% endfor %}
+
+		{% for post in site.categories.3mt %}
+				<div class="col-md-4 col-sm-6 services-item">
+						<a href="#servicesModal{{ post.modal-id }}" class="services-link" data-toggle="modal">
+								<div class="services-hover">
+										<div class="services-hover-content">
+												<i class="fa fa-plus fa-3x"></i>
+										</div>
+								</div>
+								<img src="img/services/{{ post.thumbnail }}" class="img-responsive" alt="">
+						</a>
+						<div class="services-caption">
+								<h4>{{ post.title }}</h4>
+								<p class="text-muted">{{ post.subtitle }}</p>
+						</div>
+				</div>
+		{% endfor %}
+
+		</body>
+</html>
