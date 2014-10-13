@@ -4,7 +4,7 @@ subtitle: Find someone to listen
 layout: default
 modal-id: 6
 date: 2014-07-19
-img: roundicons.png
+img: welfare_400_289.png
 thumbnail: welfare_400_289.png
 alt: image-alt
 

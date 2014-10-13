@@ -4,8 +4,8 @@ subtitle: Dining options for grads
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: clarecellars_400_289.jpg
+thumbnail: clarecellars_400_289.jpg
 alt: image-alt
 
 ---
