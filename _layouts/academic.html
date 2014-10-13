@@ -1,43 +1,61 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include head.html %}
 
-	{% include head.html %}
-
-
-		<body>
-		{% for post in site.categories.gradcon %}
-				<div class="col-md-4 col-sm-6 services-item">
-						<a href="#servicesModal{{ post.modal-id }}" class="services-link" data-toggle="modal">
-								<div class="services-hover">
-										<div class="services-hover-content">
-												<i class="fa fa-plus fa-3x"></i>
-										</div>
-								</div>
-								<img src="img/services/{{ post.thumbnail }}" class="img-responsive" alt="">
-						</a>
-						<div class="services-caption">
-								<h4>{{ post.title }}</h4>
-								<p class="text-muted">{{ post.subtitle }}</p>
+<!-- Navigation -->
+		<nav class="navbar navbar-default navbar-fixed-top">
+				<div class="container">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<div class="navbar-header page-scroll">
+								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+								</button>
+								<a class="navbar-brand page-scroll" href="#page-top">{{site.title}}</a>
 						</div>
-				</div>
-		{% endfor %}
 
-		{% for post in site.categories.3mt %}
-				<div class="col-md-4 col-sm-6 services-item">
-						<a href="#servicesModal{{ post.modal-id }}" class="services-link" data-toggle="modal">
-								<div class="services-hover">
-										<div class="services-hover-content">
-												<i class="fa fa-plus fa-3x"></i>
-										</div>
-								</div>
-								<img src="img/services/{{ post.thumbnail }}" class="img-responsive" alt="">
-						</a>
-						<div class="services-caption">
-								<h4>{{ post.title }}</h4>
-								<p class="text-muted">{{ post.subtitle }}</p>
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+								<ul class="nav navbar-nav navbar-right">
+										<li class="hidden">
+												<a href="#page-top"></a>
+										</li>
+										<li>
+												<a class="page-scroll" href="#services">Academic home</a>
+										</li>
+										<li>
+												<a class="page-scroll" href="#calendar">Main site</a>
+										</li>
+								</ul>
 						</div>
+						<!-- /.navbar-collapse -->
 				</div>
-		{% endfor %}
+				<!-- /.container-fluid -->
+		</nav>
 
-		</body>
+</head>
+
+<body id="page">
+
+<div id="main" role="main">
+  <article class="entry">
+    {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" {% if site.logo == null %}style="margin-top:0;"{% endif %}>{% if page.image.credit %}<p class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>{% endif %}{% endif %}
+    <div class="entry-wrapper">
+      <header class="entry-header">
+        <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}</h1>{% endif %}
+      </header>
+      <div class="entry-content">
+        {{ content }}
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-wrapper -->
+  </article>
+</div><!-- /#main -->
+
+</body>
 </html>
