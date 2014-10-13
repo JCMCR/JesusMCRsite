@@ -2,6 +2,7 @@
 title: Book an event/punt
 subtitle: Access the MCR booking page
 layout: default
+categories: services
 modal-id: 5
 date: 2014-07-14
 img: punting_400_289.jpg

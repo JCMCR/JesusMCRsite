@@ -2,6 +2,7 @@
 title: Grad hall and swaps
 subtitle: Dining options for grads
 layout: default
+categories: services
 modal-id: 3
 date: 2014-07-16
 img: clarecellars_400_289.jpg

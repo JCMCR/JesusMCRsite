@@ -2,6 +2,7 @@
 title: MCR wiki
 subtitle: The go to resource for grads
 layout: default
+categories: services
 modal-id: 1
 date: 2014-07-18
 img: wiki_400_289.png

@@ -2,6 +2,7 @@
 title: GradCon / 3MT
 subtitle: Celebrating our research
 layout: default
+categories: services
 modal-id: 2
 date: 2014-07-17
 img: academic_400_289.gif

@@ -2,6 +2,7 @@
 title: Welfare
 subtitle: Find someone to listen
 layout: default
+categories: services
 modal-id: 6
 date: 2014-07-19
 img: welfare_400_289.png
