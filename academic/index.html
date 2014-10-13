@@ -12,17 +12,8 @@ layout: academic
     <div class="row">
     {% for post in site.categories.gradcon %}
         <div class="col-md-4 col-sm-6 services-item">
-            <a href="#servicesModal{{ post.modal-id }}" class="services-link" data-toggle="modal">
-                <div class="services-hover">
-                    <div class="services-hover-content">
-                        <i class="fa fa-plus fa-3x"></i>
-                    </div>
-                </div>
-                <img src="img/services/{{ post.thumbnail }}" class="img-responsive" alt="">
-            </a>
             <div class="services-caption">
-                <h4>{{ post.title }}</h4>
-                <p class="text-muted">{{ post.subtitle }}</p>
+                <h4><a href="{{site.url}}{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h4>
             </div>
         </div>
     {% endfor %}
