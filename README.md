@@ -1,30 +1,24 @@
-Agency Jekyll theme
+Jesus College MCR site
 ====================
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+This theme is based on the [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
 
 # How to use
 
-###
+### Committee members
 
- are in '/_posts'
+Change this in the `_config.yaml`. The images go in `image/team`.
 
-Images are in '/img/'
+### Posts
 
-###Timeline
+The 'services', gradcon and 3mt entries are all just posts. Use the categories to tell Jekyll where in the site to put them.
 
-Images are in '/img/about/'
+### Font awesome icons
 
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
+fa icons are used extensively. While usually the fa gives this away, in the `_config.yaml` the contact details icons are also fa iccons with the fa stripped (meaning pretty much anything can be linked to).
 
 
 # Demo
 
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+View this theme in action [here](http://epijim.uk/MCRsite_test)
 
-=========
-For more details, read [documentation](http://jekyllrb.com/)
