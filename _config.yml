@@ -29,63 +29,63 @@ people:
   position: Vice-president
   social:
     - title: paper-plane
-      url: mailto:mcr-secretaryjesus.cam.ac.uk
+      url: mailto:mcr-vice-president@jesus.cam.ac.uk
 
 - name: Christine van Hooft
   pic: Christine-van-Hooft-150x150
   position: Secretary
   social:
     - title: paper-plane
-      url:
+      url: mailto:mcr-secretary@jesus.cam.ac.uk
 
 - name: Marcus Webb
   pic: Marcus-Webb-150x150
-  position: Treasurer (mcr-treasurer)
+  position: Treasurer
   social:
     - title: paper-plane
-      url:
+      url: mailto:mcr-treasurer@jesus.cam.ac.uk
 
 - name: Chris Brown
   pic: Chris-Brown-150x150
   position: Social officer (mcr-social)
   social:
     - title: paper-plane
-      url:
+      url: mailto:mcr-social@jesus.cam.ac.uk
 
 - name: John Lees
   pic: John-Lees-150x150
   position: Social officer (mcr-social)
   social:
     - title: paper-plane
-      url:
+      url: mailto:mcr-social@jesus.cam.ac.uk
 
 - name: Kate Crowcroft
   pic: Kate-Crowcroft-150x150
   position: Women's welfare
   social:
     - title: paper-plane
-      url:
+      url: mailto:mcr-womens@jesus.cam.ac.uk
 
 - name: Junhao Zhang
   pic: Junhao-Zhang-150x150
   position: Men's welfare
   social:
     - title: paper-plane
-      url:
+      url: mailto:mcr-mens@jesus.cam.ac.uk
 
 - name: C.J. Rauch
   pic: CJ-Rauch-150x150
   position: LGBT+ Welfare
   social:
     - title: paper-plane
-      url:
+      url: mailto:mcr-lgbt@jesus.cam.ac.uk
 
 - name: Pu Liu
   pic: Pu-Liu-150x150
   position: International officer
   social:
     - title: paper-plane
-      url:
+      url: mailto:mcr-international@jesus.cam.ac.uk
 
 - name: Jeremy Minton
   pic: Jeremy-Minton-150x150
@@ -99,14 +99,14 @@ people:
   position: Green officer
   social:
     - title: paper-plane
-      url:
+      url: mailto:mcr-green@jesus.cam.ac.uk
 
 - name: Jan Beitner
   pic: Jan-Beitner-150x150
   position: College council
   social:
     - title: paper-plane
-      url:
+      url: mailto:mcr-college-council@jesus.cam.ac.uk
 
 - name: Alex Evans
   pic: Alex-Evans-150x150
