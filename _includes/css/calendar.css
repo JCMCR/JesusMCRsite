@@ -75,14 +75,14 @@
 	padding: 0px;
 	font-size: 10px;
 	color: white;
-	background: black;
+	background-colour: #ed0909;
 	font-family: arial;
 }
 
 .eventMouseOut {
 	padding: 0px;
 	font-size: 10px;
-	color: blue;
+	color: grey;
 	background: white;
 	font-family: arial;
 }
