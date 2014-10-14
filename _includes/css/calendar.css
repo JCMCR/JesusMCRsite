@@ -60,7 +60,7 @@
 .monthViewCell {
 	width: 130px;
 	height: 110px;
-	border: solid gray 1px;
+	border: solid #ed0909 1px;
 	text-align: left;
 }
 
@@ -75,7 +75,7 @@
 	padding: 0px;
 	font-size: 10px;
 	color: white;
-	background-colour: #ed0909;
+	background-color: #ed0909;
 	font-family: arial;
 }
 
