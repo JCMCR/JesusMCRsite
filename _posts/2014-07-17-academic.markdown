@@ -10,3 +10,19 @@ thumbnail: academic_400_289.gif
 alt: image-alt
 
 ---
+
+### Graduate symposiums
+
+Several times a term Jesus College fellows speak after graduate hall. Check out the
+ calendar to see when the next talk is.
+
+### 3 minute thesis
+
+Could you describe your research to a lay in 3 minutes? The three minute thesis
+ competition is a chance to practice the skills needed to get your research noticed.
+ <a href="{{site.baseurl}}/academic/" target="_blank">Talks from previous competitions are online</a>
+
+### The graduate conference
+
+The graduate conference is a chance for grads to showcase their work to an interdisciplinary
+ group. <a href="{{site.baseurl}}/academic/" target="_blank">Talks from previous conferences are online</a>
