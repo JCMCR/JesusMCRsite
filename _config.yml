@@ -19,7 +19,7 @@ color:
 people:
 - name: Rebecca Forster
   pic: Rebecca-Forster-150x150
-  position: MCR President (mcr-president)
+  position: MCR President
   social:
     - title: paper-plane
       url: mailto:mcr-president@jesus.cam.ac.uk
@@ -47,14 +47,14 @@ people:
 
 - name: Chris Brown
   pic: Chris-Brown-150x150
-  position: Social officer (mcr-social)
+  position: Social officer
   social:
     - title: paper-plane
       url: mailto:mcr-social@jesus.cam.ac.uk
 
 - name: John Lees
   pic: John-Lees-150x150
-  position: Social officer (mcr-social)
+  position: Social officer
   social:
     - title: paper-plane
       url: mailto:mcr-social@jesus.cam.ac.uk
@@ -134,6 +134,8 @@ social:
     url: https://www.facebook.com/groups/jesus.newgrads2011
   - title: github
     url: https://github.com/epijim/JesusMCRsite
+  - title: linkedin
+    url: https://www.linkedin.com/groups?home=&gid=872067&trk=my_groups-tile-grp
 
 # Postal address (add as many lines as necessary)
 address:

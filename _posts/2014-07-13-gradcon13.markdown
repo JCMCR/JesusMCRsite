@@ -1,0 +1,54 @@
+---
+title: Gradcon 2013
+layout: academicpost
+categories: gradcon
+modal-id: 1
+
+---
+
+### Miranda Hutchison - The Liber Eliensis
+
+The Liber Eliensis is a twelfth-century manuscript about the history of the Abbey of Ely. The history of the Isle of Ely up to that point included miracles, Viking invasion, the blinding and death of Edward the Confessor’s brother, rebellion against William the Conqueror and conflict between the monks of Ely and the new Bishops of Ely. The Liber is a combination of different types of text, which shows how the monks thought about history and what it was for. The Liber is part saints’ lives, part legal text, and part general narrative all combined to form a historical manuscript. Because it was written by many different authors, and then later edited and compiled into one document, it’s a great example of the problems medieval historians face, trying to work out which parts of the volume where written when and by whom. The Liber Eliensis is a local source which can be used to try and understand the world-view of its authors and compilers. It raises a lot of questions about why particular sources have been chosen, and what types of sources the medieval compiler felt were appropriate to combine.
+
+### Nicholas Bell - Making nanostructures from DNA
+
+DNA is the molecule that stores our genetic information. It also makes an excellent material for building structures at the nanometre scale. Custom made DNA strands can be synthesised with sequences that are designed to base pair to form intricate nanoscale shapes. This process is known as DNA origami since it mimics the traditional Japanese art of paper folding but at a scale one million times smaller. I will present work in my PhD making DNA origami structures designed to control the passage of molecules across mem- branes. This research has a number of applications as a new sensor for small biological molecules and for simulating the behaviour of proteins which regulate the flow of molecules across cell membranes.
+
+### Martin Lytje - Confronting Bereavement in the Danish School System
+
+While the loss of a family member is difficult for anyone to handle, researchers have highlighted the severe and life changing effects it can have on children. It is consequently of paramount importance that schools, in which children spend a considerable amount of their time, are able to help them cope with the loss of a family member. Understandably, supporting grieving children is often considered a challenging task by teachers. In Denmark a guide to creating individual school bereavement response plans was created in the late nineties. With 96% of all schools utilising this system, and a majority of Danish teachers re- porting it to be so effective they do not require any further assistance, it is today one of the most successful bereavement response systems used anywhere. This presentation will describe how my thinking has developed from examining bereavement during my bachelor and during a PhD on the same topic. The questions explored are:
+
+Why is it that most individuals in Western society find bereave- ment such a difficult topic to confront, and how can planned approaches empower teachers to act?
+What are the benefits and drawbacks of utilising a planned ap- proach when dealing with bereavement in Danish schools?
+
+### Cynthia Larbey - Vegetables: 5-a-day 30,000 Years Ago
+
+Neanderthals and early humans have been portrayed as only eating meat and other food derived from animals but archaeobotanists are now finding that fruits, nuts and vegetables also formed an important part of their diet.
+
+The site of Doln Vstonice in the Czech Republic is on a major Palaeolithic ‘junction’ for the migration of the earliest humans into Europe, with other important sites in the same regions. Using a 30,000 year-old hearth from Doln ́ı V ̆estonice, this archaeobotanical study quantifies remains of Palaeolithic vegetables found at the site. Quantification of faunal remains and flint flakes and tools is an essential tool for Palaeolithic archaeologists but this is the first time this has been done with plant remains.
+
+The project analyses parenchyma - the primary plant tissue inside roots and tubers - and uses this data to understand the quantity and spatial distribution of vegetable remains and how it contributes to interpretation of the site.
+
+It is only recently that parenchyma analysis has started to contribute to our understanding of early human diet. This study is in the vanguard and the initial results show fascinating patterns with inter- esting implications for interpreting human activity at this very early site.
+
+### Fiona Cochaud - Judging the Judges: Assessing the Khmer Rouge Tribunal
+
+The Khmer Rouge Tribunal, otherwise known as the Extraordinary Chambers in the Courts of Cambodia, was established in 2006 to bring to trial senior leaders and those most responsible for mass atrocity crimes associated with the Khmer Rouge regime between 1975 and 1979. After protracted negotiations between the United Nations and the Cambodian government, the first trial began in 2008. Since its inception, the court has been criticised for slowness, inefficiency, lack of impartiality, and internal corruption. Many external observers, particularly NGOs, suspect that the court is subject to political interference. The court also faces ongoing budgetary constraints and an ambivalent host government. Together, these factors jeopardise the trials of the remaining three elderly defendants in custody, and the court’s future legacy. I argue that the court itself needs defending from unrealistic expectations of perfect justice. Even delayed justice is better than no justice at all. If the international community is serious about ending impunity for grave crimes against humanity, then the court deserves greater political support, including from the United Nations and donor governments. The Cambodian people have waited long enough for justice and accountability for past crimes and deserve nothing less.
+
+### Andrew Singleton - Quantum weirdness and how to beat it
+
+In the latter half of the 19th century, complacency was setting in to theoretical physics. It seemed that all the laws were more or less worked out, and a view was emerging of a “clockwork universe” where if one had perfect knowledge of the universe at any one time, then they could predict everything about the future with perfect accuracy. Around the turn of the 20th century this complacency was shattered by the advent of quantum theory. This is inherently weird. Really weird. In fact, the last 100 years of fundamental physics could reasonably be described as the quest to better understand quantum theory. In spite of all that, quantum theory has been developed into an outrageously effective tool: its predictions are by far the most accurate ever made in physics. I’ll try to explain what quantum weirdness is, what kind of conceptual problems it leads to and how we can still extract meaningful predictions from the madness.
+
+### Stanley Ellerby-English - The Political Lives of Large Dams
+
+India and China are the two most populous countries on earth and, rightly or wrongly, have often been cast as emerging powers in con- trast to a declining Europe and USA. However, booming populations and economies come at an enormous cost, and both are struggling to feed and power this massive growth. Both countries have engaged in massive projects of hydraulic management as part of their general strategies towards sustaining these demographic and economic trends. Comparing the differences and similarities in dam building programs between the two countries opens up a number of interesting questions. Why have differences in projects occurred? How have dams differentially impacted the countries as a whole, as well as the lives of those directly affected by their construction? Given alternatives and the neg- ative impacts dams can have, why do both countries continue to pursue large scale hydro engineering projects? I will of course be acknowledging the very tangible effects of dam building, but will primarily be examining the political sociological process of damming rivers. A comparative examination of the two countries will help to highlight these socio-political drivers and effects clearly.
+
+### Goylette Chami - Empirical Networks and Health in Developing Countries
+
+Network theory is a well-established discipline that uses mathematical graphs to describe biological, physical, and social systems. The topologies across empirical networks display strikingly similar organisational properties. Particularly, the characteristics of these networks allow for computational analysis to contribute data unattainable from examining individual components in isolation. However, the interdis- ciplinary and quantitative nature of network analysis has yet to be exploited by public health initiatives to distribute preventive chemother- apies. To achieve the 2012 WHO Roadmap for Neglected Tropical Diseases, there is a need to upscale distribution capacity and to target systematic non-compliers. My research explains why an understanding of local networks for drug distribution and community-level profiles of noncompliance is essential for sustainable expansion of mass drug administration programs. I am currently graphing the networks of 10,000 households in 30 villages in Uganda whilst working alongside the Ministry of Health to advise drug distribution targeting. Furthermore, I am examining the relationship between network structures and community health status in 91 and 27 villages in former ‘blood diamond areas’ in Sierra Leone and Liberia, respectively.
+
+### Guest speaker
+
+**Professor John Loughlin - “The Hybrid State: Policy and Politics in the 21st Century”**
+
+The presentation will examine the evolution of the state in the modern period from the Treaty of Westphalia to the nation-state of the French Revolution which reached its fullest form in the Welfare States of the period after World War II. The nation-state during this period had a number of features such as high levels of centralisation and bureaucratisation and distinctive forms of territorial governance. Under the impact of globalisation and neo-liberalism, Europeanisation (in European states), public administration and public policy reforms and the mobilisation of regions and local authorities, the post-war state has given way to another configuration. The nation-state has not dis- appeared but its features and its relations with other states, with the market, and with civil society have significantly changed. This I call the ‘hybrid state’ as it encompasses both the old and new simultaneously. Policy advice to European states, to the EU, the Council of Europe and to the UN, must be based on a recognition of these developments.
