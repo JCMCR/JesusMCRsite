@@ -1,6 +1,6 @@
 <!-- WIP : https://developers.google.com/gdata/articles/calvis?csw=1 -->
 
-<!-- Calendar Section -->
+<!-- Calendar Section list-->
     <section id="calendar">
             <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js'></script>
             <script type='text/javascript'>
@@ -28,7 +28,30 @@
 
                 // if event has a start time (as oppose to all day), format date with time
                 if(event_start_date.getHours() != 0 || event_start_date.getMinutes() != 0) {
-                    var event_start_str = event_start_date.toString("ddd MMM d, h:mm");
+                     var curr_year = event_start_date.getFullYear();
+
+                    var curr_month = event_start_date.getMonth() + 1; //Months are zero based
+                    if (curr_month < 10)
+                        curr_month = "0" + curr_month;
+
+                    var curr_date = event_start_date.getDate();
+                    if (curr_date < 10)
+                        curr_date = "0" + curr_date;
+
+                    var curr_hour = event_start_date.getHours();
+                    if (curr_hour < 10)
+                        curr_hour = "0" + curr_hour;
+
+                    var curr_min = event_start_date.getMinutes();
+                    if (curr_min < 10)
+                        curr_min = "0" + curr_min;
+
+                    var curr_sec = event_start_date.getSeconds();
+                    if (curr_sec < 10)
+                        curr_sec = "0" + curr_sec;
+
+                    var event_start_str = "Starts at "+curr_hour + ":" + curr_min + " on the " + curr_date+"/"+curr_month+"/"+curr_year
+
                 } else {
                 // otherwise format start as date only (without time)
                     var event_start_str = event_start_date.toString("ddd MMM d");
