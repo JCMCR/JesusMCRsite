@@ -2,7 +2,6 @@
 title: 3MT 2014
 layout: academicpost
 categories: 3mt
-modal-id: 1
 
 ---
 

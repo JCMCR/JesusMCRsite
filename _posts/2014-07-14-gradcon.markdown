@@ -2,7 +2,6 @@
 title: Gradcon 2014
 layout: academicpost
 categories: gradcon
-modal-id: 1
 
 ---
 
@@ -189,7 +188,7 @@ Rory Cellan-Jones has been a reporter for the BBC for a quarter of a century, co
 
 His on-screen career began as reporter for Wales Today in Cardiff, from where he moved to
  London as a reporter on Breakfast Time. He quickly transferred to business coverage,
- working across the BBC's output from the Money Programme to Newsnight, from the Today 
+ working across the BBC's output from the Money Programme to Newsnight, from the Today
  programme to the Ten O Clock News. The stories he has covered range from Black Wednesday
  and the Maxwell trial to the dot com bubble and the rise of Google.
 

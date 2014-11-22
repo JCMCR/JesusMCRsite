@@ -2,7 +2,6 @@
 title: Gradcon 2013
 layout: academicpost
 categories: gradcon
-modal-id: 1
 
 ---
 
