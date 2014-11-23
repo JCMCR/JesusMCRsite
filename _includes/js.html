@@ -4,11 +4,6 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
 
-    <!-- Plugin JavaScript -->
-    <script src="{{ "/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/classie.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script>
-
     <!-- Contact Form JavaScript -->
     <script src="{{ "/js/jqBootstrapValidation.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/js/contact_me.js" | prepend: site.baseurl }}"></script>
@@ -16,40 +11,43 @@
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
 
+<!-- Calendar -->
+<script src="{{ "/js/fullcalendar/lib/moment.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/fullcalendar/fullcalendar.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/fullcalendar/gcal.js" | prepend: site.baseurl }}"></script>
+<script type='text/javascript'>
 
-    <!-- Calendar -->
-    <script src="{{ "/js/fullcalendar/lib/moment.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/fullcalendar/lib/jquery.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/fullcalendar/fullcalendar.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/fullcalendar/gcal.js" | prepend: site.baseurl }}"></script>
-    <script type='text/javascript'>
+  $(document).ready(function() {
 
-      $(document).ready(function() {
+    $('#calendar').fullCalendar({
 
-        $('#calendar').fullCalendar({
+      // THIS KEY WON'T WORK IN PRODUCTION!!!
+      // To make your own Google API key, follow the directions here:
+      // http://fullcalendar.io/docs/google_calendar/
+      googleCalendarApiKey: 'AIzaSyDcnW6WejpTOCffshGDDb4neIrXVUA1EAE',
 
-          // THIS KEY WON'T WORK IN PRODUCTION!!!
-          // To make your own Google API key, follow the directions here:
-          // http://fullcalendar.io/docs/google_calendar/
-          googleCalendarApiKey: 'AIzaSyDcnW6WejpTOCffshGDDb4neIrXVUA1EAE',
+      // US Holidays
+      events: 'sgsu6qab7n3i7p2b2mthktmupk@group.calendar.google.com',
 
-          // US Holidays
-          events: 'sgsu6qab7n3i7p2b2mthktmupk@group.calendar.google.com',
+      eventColor: '#f71111',
 
-          eventColor: '#f71111',
+      eventClick: function(event) {
+        // opens events in a popup window
+        window.open(event.url, 'gcalevent', 'width=700,height=600');
+        return false;
+      },
 
-          eventClick: function(event) {
-            // opens events in a popup window
-            window.open(event.url, 'gcalevent', 'width=700,height=600');
-            return false;
-          },
+      loading: function(bool) {
+        $('#loading').toggle(bool);
+      }
 
-          loading: function(bool) {
-            $('#loading').toggle(bool);
-          }
+    });
 
-        });
+  });
 
-      });
+</script>
 
-    </script>
+<!-- Plugin JavaScript -->
+<script src="{{ "/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/classie.js" | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script>
