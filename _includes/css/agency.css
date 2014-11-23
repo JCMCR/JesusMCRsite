@@ -268,6 +268,7 @@ header {
     background-image: url("http://epijim.uk/MCRsite_test/img/header-bg.jpg");
     background-position: center center;
     background-repeat: none;
+    padding-top: 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -275,7 +276,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 50px;
     padding-bottom: 50px;
 }
 
@@ -653,10 +654,12 @@ aside.logos img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-image: url("{{ "/img/map-image.png" | prepend: site.baseurl }}");
     background-position: center;
     background-repeat: no-repeat;
 }
+
+
 
 section#contact .section-heading {
     color: #fff;
