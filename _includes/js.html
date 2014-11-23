@@ -15,3 +15,41 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
+
+
+    <!-- Calendar -->
+    <script src="{{ "/js/fullcalendar/lib/moment.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/fullcalendar/lib/jquery.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/fullcalendar/fullcalendar.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/fullcalendar/gcal.js" | prepend: site.baseurl }}"></script>
+    <script type='text/javascript'>
+
+      $(document).ready(function() {
+
+        $('#calendar').fullCalendar({
+
+          // THIS KEY WON'T WORK IN PRODUCTION!!!
+          // To make your own Google API key, follow the directions here:
+          // http://fullcalendar.io/docs/google_calendar/
+          googleCalendarApiKey: 'AIzaSyDcnW6WejpTOCffshGDDb4neIrXVUA1EAE',
+
+          // US Holidays
+          events: 'sgsu6qab7n3i7p2b2mthktmupk@group.calendar.google.com',
+
+          eventColor: '#f71111',
+
+          eventClick: function(event) {
+            // opens events in a popup window
+            window.open(event.url, 'gcalevent', 'width=700,height=600');
+            return false;
+          },
+
+          loading: function(bool) {
+            $('#loading').toggle(bool);
+          }
+
+        });
+
+      });
+
+    </script>
