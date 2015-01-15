@@ -1,5 +1,5 @@
-url: http://epijim.uk
-baseurl: /MCRsite_test
+url: http://mcr.jesus.cam.ac.uk
+baseurl: /
 
 source:      "/Users/Jimmy/JesusMCRsite"
 destination: "/Users/Jimmy/MCRsite_test"
