@@ -84,7 +84,7 @@ Park Street has central Cambridge on one side, and the college grounds on the ot
 
 ## Lower Park St
 
-![Little Trinity]({{ site.url }}{{site.baseurl}}/img/services/housing_400_289.jpg)
+![Little Trinity]({{ site.url }}{{site.baseurl}}/img/services/housing_lowerpark.jpg)
 
 The prettiest housing in college, these two storey houses back on to a college garden on one side,
  and either the Maypole Pub, a local school or Jesus Green on the other, depending on
