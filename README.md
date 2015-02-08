@@ -1,7 +1,7 @@
 Jesus College MCR site
 ====================
 
-This theme is based on the [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+This theme is based on the [Agency bootstrap theme ](https://github.com/IronSummitMedia/startbootstrap-agency)
 
 # How to use
 
