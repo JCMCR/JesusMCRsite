@@ -10,5 +10,4 @@ thumbnail: wiki_400_289.png
 alt: image-alt
 ---
 
-For a wealth of information about the MCR, College, the city of Cambridge,
- please take a look at the <a href="http://mcr.jesus.cam.ac.uk/mcrwiki/index.php?title=Main_Page" target="_blank">MCR Wiki page (link opens a new tab/page)</a>. Please note this resource is only available to current Jesus grads, and requires a login.
+For a wealth of information about the MCR, College, the city of Cambridge, please take a look at the <a href="http://mcr.jesus.cam.ac.uk/mcrwiki/index.php?title=Main_Page" target="_blank">MCR Wiki page (link opens a new tab/page)</a>. Please note this resource is only available to current Jesus grads, and requires a login.
