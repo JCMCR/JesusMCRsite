@@ -13,7 +13,7 @@ alt: image-alt
 
 There is a wide range of help and support services available to all students at the University.
 The links below provide further information related to a variety of welfare issues, including details of people and services you can contact.
-If you have any comments on these resources, or feel that we have missed something, please contact the Welfare Officers below. The members of the MCR Welfare team (welfare officers, international officer and LGBT liaison) can be contacted by email, pigeonhole, or in person. Their details can be found on the committee page.
+If you have any comments on these resources, or feel that we have missed something, please contact the Welfare Officers below. The members of the MCR Welfare team (welfare officers, international officer and LGBT liaison) can be contacted by email, pigeonhole, or in person. Their details can in the *team* section.
 
 Our <a href="http://mcr.jesus.cam.ac.uk/mcrwiki/index.php?title=Welfare" target="_blank">MCR wiki</a> also has more information on where you can find help.
 
@@ -23,7 +23,7 @@ If you want to get in contact - without the welfare reps knowing who you are - y
 
 1.  Go to <a href="https://www.hushmail.com/signup/" target="_blank">hushmail.com/signup</a>.
 2. Choose an email address and password.
-3. Compose your message to the appropriate welfare officer (click the picture of the paper plane up above to find their email address. We have male, female, international and LGBT+ officers).
+3. Compose your message to the appropriate welfare officer (click the picture of the paper plane up in the *team* section to find their email address. We have male, female, international and LGBT+ officers).
 4. The welfare officer will email you back at your anonymous hushmail address.
 
 **Other links**
