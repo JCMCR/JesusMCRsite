@@ -4,24 +4,17 @@
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 {% include head.html %}
+{% include css/academic.css %}
+
+<body id="page-top" class="index">
 
 <!-- Navigation -->
 		<nav class="navbar navbar-default navbar-fixed-top">
 				<div class="container">
-						<!-- Brand and toggle get grouped for better mobile display -->
-						<div class="navbar-header page-scroll">
-								<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-										<span class="sr-only">Toggle navigation</span>
-										<span class="icon-bar"></span>
-										<span class="icon-bar"></span>
-										<span class="icon-bar"></span>
-								</button>
-								<a class="navbar-brand page-scroll" href="{{site.url}}{{site.baseurl}}">{{site.title}}</a>
-						</div>
-
-						<!-- Collect the nav links, forms, and other content for toggling -->
-						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 								<ul class="nav navbar-nav navbar-right">
+										<li class="hidden">
+												<a href="#page-top"></a>
+										</li>
 										<li>
 												<a class="page-scroll" href="{{site.url}}{{site.baseurl}}/academic/">Academic home</a>
 										</li>
@@ -31,22 +24,44 @@
 								</ul>
 						</div>
 						<!-- /.navbar-collapse -->
-				</div>
-				<!-- /.container-fluid -->
 		</nav>
 
 <header>
-		<div class="container_subsite">
+	<div id="blackBar"></div>
+		<div class="container">
 				<div class="intro-text">
 						<div class="intro-heading">{{page.title}}</div>
-				</div>
+				<
 		</div>
 </header>
 
-<body>
-	<div class="container_subsite"; style="font-size: larger;">
+	<div class="container"; style="font-size: larger;">
 	</br>
         {{ content }}
   </div>
-</body>
-</html>
+
+<footer>
+			<div class="container">
+					<div class="row">
+							<div class="col-md-4">
+									<span class="copyright">Copyright &copy; {{ site.title }} 2014</span>
+							</div>
+							<div class="col-md-4">
+									<ul class="list-inline social-buttons">
+											{% for network in site.social %}
+											<li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+											</li>
+											{% endfor %}
+									</ul>
+							</div>
+							<div class="col-md-4">
+									<ul class="list-inline quicklinks">
+											<li><a href="{{site.url}}{{site.baseurl}}/academic/">Back to academic home</a>
+											</li>
+									</ul>
+							</div>
+					</div>
+			</div>
+	</footer>
+
+	</html>
