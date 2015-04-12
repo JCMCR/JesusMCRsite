@@ -1,0 +1,75 @@
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+
+<script type='text/javascript'>
+
+var ToC =
+  "<nav role='navigation' class='table-of-contents'>" +
+    "<h2>On this page:</h2>" +
+    "<ul>";
+
+var newLine, el, title, link;
+
+$("article h3").each(function() {
+
+  el = $(this);
+  title = el.text();
+  link = "#" + el.attr("id");
+
+  newLine =
+    "<li>" +
+      "<a href='" + link + "'>" +
+        title +
+      "</a>" +
+    "</li>";
+
+  ToC += newLine;
+
+});
+
+ToC +=
+   "</ul>" +
+  "</nav>";
+
+$(".all-questions").prepend(ToC);
+
+</script>
+
+<style media="screen" type="text/css">
+article {
+  max-width: 50em;
+  background: white;
+  padding: 2em;
+  margin: 1em auto;
+}
+
+.table-of-contents {
+  float: right;
+  width: 40%;
+  background: #eee;
+  font-size: 0.8em;
+  padding: 1em 2em;
+  margin: 0 0 0.5em 0.5em;
+}
+.table-of-contents ul {
+  padding: 0;
+}
+.table-of-contents li {
+  margin: 0 0 0.25em 0;
+}
+.table-of-contents a {
+  text-decoration: none;
+}
+.table-of-contents a:hover,
+.table-of-contents a:active {
+  text-decoration: underline;
+}
+
+h3:target {
+  animation: highlight 1s ease;
+}
+
+@keyframes highlight {
+  from { background: yellow; }
+  to { background: white; }
+}
+</style>

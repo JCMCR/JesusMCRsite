@@ -1,0 +1,143 @@
+---
+title: Gradcon 2015
+layout: academicpost
+categories: gradcon
+
+---
+<article>
+
+<div class="all-questions">
+
+<h2>Prize winners</h2>
+
+<h3>Andrew Singleton - The black hole information paradox</h3>
+
+Black holes are black. This sounds like an uncontroversial statement! It's well known that black holes are regions of space from which nothing, not even light, can escape. This simple idea has served both physicists and second-rate science fiction authors well since the first black holes were described nearly 100 years ago.
+
+Unfortunately, it's probably wrong. The mere statement that black holes are black seems to be fundamentally in conflict with quantum mechanics. The cleanest example of this conflict is the information paradox. Rule number 1 of quantum information theory says that information can neither be created nor destroyed, but a truly black black hole seems like a very effective information destroyer: any information we have about anything unfortunate enough to fall into a black hole seems to be lost forever. The resolution of this paradox is one of the great unsolved problems of fundamental physics, and promises to teach us a great deal about the basic workings of our universe.
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/3uOzeKQlEZc?list=PL05xoCyH--gB2_gERIPBn1XLh-YMDIUjJ&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<h3>Chris de Saxe - Vision-based articulation angle sensing systems</h3>
+
+Heavy goods vehicles (HGVs) pose an inherent road safety risk by virtue of their size, dimensions and configuration, and there is a trend worldwide towards longer and heavier HGVs due to their proven efficiency and productivity benefits. At high speeds, HGVs may become unstable and difficult to control leading to rollover or jack knifing, and at low speeds exhibit significant "corner-cutting" during turning. These characteristics are exacerbated when one or more trailer units are present. Active trailer steering control and advanced braking control technologies have been shown to address some of these issues, but rely on numerous and often expensive instrumentation in both truck and trailer units. A particularly crucial sensor is that of articulation angle between truck and trailer, requiring the existence of trailer-based instrumentation. In practice this is impractical, and the industrial implementation of such systems will be limited unless more or all of the required instrumentation could be tractor-based.
+
+In this work, a vision-based articulation angle sensing system has been developed and investigated. Two methods have been explored, both requiring only a single rear-facing camera fixed to the tractor unit. The first, a template-matching approach, is limited to "box-type" trailers with a planar front, and requires minimal knowledge of the trailer geometry. The second, using the Parallel Tracking And Mapping (PTAM) algorithm, is not limited to particular trailer types but may be more sensitive to a lack of visual texture on the front of the trailer. Experimental vehicle tests were carried out, showing measurement accuracy in the order of 1-2 degrees.
+
+Current work includes the refinement of these systems and the development of a vision-based cyclist detection system. Both systems are to form part of a larger vision-based sensing and awareness concept for heavy goods vehicles.
+
+<h3>Melody Dobrinin - How accents change in foreign environments</h3>
+
+A person’s accent is an important part of their cultural identity however, there are certain circumstances in which pronunciation and comprehensibility can greatly affect a person’s work and personal lives. Some people live in a foreign country for twenty years and still maintain their native accent, while some peoples’ accents change after a two-week holiday.
+This study aims to test whether perception skills, mimicry skills, and demographic factors have an influence on accent change and comprehensibility. Upon entering the UK, Mandarin speakers of English and Australian English speakers were monitored across a three month period. Speech samples were collected at the beginning and end of this period using a single word elicitation task and a passage reading. Subjects were then assessed on their mimicry skills, perception skills, language learning experiences, and accent attitudes to see how these factors might influence subjects’ accent change.
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PL05xoCyH--gB2_gERIPBn1XLh-YMDIUjJ" frameborder="0" allowfullscreen></iframe>
+
+<h3>Bernardo Sarmiento-Hinojosa - Teaching in verse in the fourteenth century</h3>
+
+When we think about what “literature” is, we often think about modern ideas of narrative and fiction. Throughout the Middle Ages, however, the majority of England’s literary output constituted technical didactic literature, far removed from the paperbacks that today line storefronts. I argue, however, that this changed in the early fourteenth century when writers and theologians realized that verse and narrative could be used as pedagogic tools.
+
+The Fourth Lateran Council of 1215 was one of the primary catalysts of vernacular religious literature during the Middle Ages in England. The ecclesiastical council requested that every Christian confess at least once a year and, to do so correctly, encouraged both the laity and the clergy to be well versed in the basic tenets of the Christian faith. This repudiation of ignorance led to the widespread production of Latin and vernacular manuals throughout the thirteenth century. The fourteenth century, however, witnessed the rise of encyclopedic poems in Middle English which sought to simultaneously teach and entertain its audience, giving rise to a new form of “pleasurable” didactic literature in verse and, I would argue, the tradition that would eventually give us the works of Chaucer and other poets. In my presentation I will examine how this literature deploys verse and poetic form in order to teach and entertain. I will focus primarily on the Cursor Mundi, a popular medieval text which sadly is barely read today, even by specialists. The Cursor attempts to narrate the entire history of the world from Creation to Doomsday with a marked self-awareness of the poetic and literary techniques used to appeal to a lay audience.
+
+In this presentation I wish to introduce a non-specialist audience to little-known medieval texts and argue that these texts’ emphasis on entertainment and aesthetic pleasure eventually gave rise to poems such as Chaucer’s Canterbury Tales and beyond.
+
+
+<h2>All talks</h2>
+
+<h3>Jenny Woods - From volcanic intrusion to fissure eruption, Holuhraun, Iceland, 2014</h3>
+
+August 2014 saw the beginning of a period of unrest in the Bardarbunga volcanic
+system, located astride the mid-Atlantic ridge in Eastern Iceland. Activity originated
+in the subglacial Bardarbunga central volcano, and in the following days magma
+propagated 45 km north-eastwards before erupting curtains of fire in the old
+Holuhraun lava field on August 29th. At time of writing it has erupted roughly 1.5 km
+cubed of lava covering over 85 km squared, making this the largest eruption in
+Iceland for 150 years.
+
+Magmatic intrusions can be tracked through their accompanying swarms of micro-
+seismicity, arising from crustal failure and fracture of both the country rock and
+solidifying magma plugs. Our extensive, local seismic network covers the numerous
+volcanic systems beneath the Vatnajökull glacier and their transecting fissure swarms
+(rifting zones) along the divergent plate boundary. Data is presented from this dense
+array which captured the seismicity produced as the magma migrated from the
+central volcano to the eruption site, and complementary hazard monitoring
+techniques and implications are discussed.
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/mxbyPbaveG4" frameborder="0" allowfullscreen></iframe>
+
+<h3>Jeff Lockhart - Venus and Mars: The obsessive search for sex differences in biology</h3>
+
+Neurologists and psychologists have long researched biological sex differences between men and women. They compare brain size, toddlers' toy choice, hormone levels, and myriad other things to measure precisely how men and women are two distinct groups—sexually dimorphic.
+
+Most of these studies bare striking resemblance to misogynist cultural stereotypes. They set out to show women's brains are different from men's, that they're inferior at spacial rotation tasks, that they are biologically programmed to prefer dolls and cooking to trucks and balls.
+
+Despite four decades of scientific feminist criticism, these studies are not part of the historical dustbin: they continue to be published in highly ranked journals today. Cambridge academic Melissa Hines, in her 2004 book reviewing this literature, states that for sex difference research, the averages for men and women are commonly half a standard deviation apart. Yet as Schilling et al. demonstrate that even with a difference four times as large, men and women would still form a single, normal, bell-curve distribution (2012). They show that men's and women's height, the common introduction to statistics example of bimodality, is not actually bimodal. This paper argues that much biological sex difference research is so invested in its initial assumptions about men and women that it overlooks the obvious methodological flaws and evidence of statistical similarity in its data.
+
+Using feminist criticisms of science, social science, and statistical re-analysis of sex difference studies, this work develops a new way to evaluate sex difference research without dismissing it off hand. This new approach is designed specifically to be accessible to non-expert audiences, and to hold scientific research accountable for its public reception.
+
+<h3>John Lees - Genome wide association studies, ten years on</h3>
+
+Since the introduction of high throughput sequencing in 2007 we have been able to
+rapidly and cheaply extract the entire DNA code of thousands of different species. In
+some cases we have also resequenced many members of the same species to find
+out how the entire population’s genetics varies.
+
+As usual our favourite species is ourselves - worldwide hundreds of thousands of people have had their DNA sequenced. We can also just sequence some of the most important variation in even larger numbers of people (called genotyping), and we’ve been doing this for even longer.
+
+There’s an awful lot of this data knocking about now - what useful things can we do with it?
+A major success has been in associating genetic variants with phenotypes: likelihood to develop diseases such as type II diabetes, traits such as height, and whether after eating asparagus you can smell it in your urine.
+In this talk I’ll cover how these studies are performed from data collection to analysis, all that we’ve learnt from them, and how this information is making its way to hospital near you. I’ll also talk about commercial services such as 23andme and make the inevitable comparison of ‘big data’ to everyone’s favourite European particle physics collaboration, CERN.
+Finally, I'll mention the tiny dent my PhD might make in this area.
+
+<h3>Hajime Shinohara - Angry materials</h3>
+
+If people get angry, there are observable effects. For example, someone's face would turn red or their breath would become rough. Similar to human beings, materials get "angry" and "frustrated" in specific conditions. If they are angry, some special effects happen. In this presentation, I will talk about angry materials, how they got angry and how frustrated materials can be utilized in our society.
+
+<h3>Emily Baker - Encounters with Nazism, the second world war, and the holocaust in contemporary Latin American literature</h3>
+
+Over the past two decades authors from Mexico, Colombia, Brazil, Argentina and Chile have all produced highly successful novels taking the themes of Nazism or the Holocaust as central preoccupations. My original research question was, therefore, why are Latin American authors interested in this period of “European” history now? One might be forgiven for thinking 'well, lots of Nazis fled to South America, didn't they?' - but this alone fails to explain the particular timing, the wide-ranging approaches and the diverse engagements with the topic that can be observed among them.
+
+Now, nearing the end of my project, some points in common that I have identified in my investigation are interests in, and meditations on, the interrelated notions of 'conspiracy,' on the one hand and 'community,' on the other. One of the novels in particular, 'The Informers' (2011) by Colombian writer Juan Gabriel Vásquez, directed me towards the writings of the French philosopher Jean-Luc Nancy, whose work on 'community' and compelling negotiation between phenomenology and deconstruction, are fast making him into one of the most influential philosophical thinkers of the present day. My thesis as a whole brings Nancy's work into contact with the Latin American literary field where, thus far, it has remained relatively unexamined. In this presentation, I hope to give an example of how 'The Informers' both engages with, and tests the limits of, Nancy's vision of an alternative form of 'community' based on interdependence, tactile associations, and 'being-in-common'. It also unveils the forgotten Colombian 'Nazi' past and uses it to interrogate problematic events of the Colombian political present.
+
+<h3>Matthijs de Kempenaer - Efficient swinging</h3>
+
+Man is capable of making a full 360-degree rotation on a playground swing. But what is the most efficient method of achieving this full rotation? This research into the dynamics of swinging on a playground swing focused on the radial excitation of a rigid swing. In theory, simulation and experiments, the most efficient way of swinging was researched. For this, two independent variables were analysed: the ‘point of movement’, the distance where the upwards body-movement takes place in the pendulum-like motion measured from the vertical and the ‘time of movement’, how long it takes for the body to make the required vertical displacement.
+
+Having determined the differential equations governing the motion of the swing, these were programmed in MATLAB in a numerical model. Using this, different values of the ‘point of movement’ and ‘time of movement’ variables were simulated. The simulation would simulate until a full vertical upright position was achieved, recording the time as Tπ.
+To validate the numerical model in MATLAB a scale model (1:10) was developed. With this scale model, capable of swinging fully autonomously using an Arduino chip, the same simulations as done in the numerical model were performed. Results from the scale model differed slightly from the numerical model, mainly due to scaling of air resistance. When this is taken into account, these runs validated the numerical model, from which the conclusion could be drawn that a minimal ‘time of movement’ and a ‘point of movement’ as close to the vertical as possible would provide a minimal Tπ.
+
+<h3>CJ Rauch - Novice teachers and democracy: community, choice and curricula in conflict</h3>
+
+This comparative case study examines trainee teachers' opinions about democratic citizenship education. Specifically, the study explores the extent to which participants from two different routes of teacher education have attitudes and philosophies of education in which democratic citizenship education isa key component. Furthermore, it attempts to locate the possible causes of any differences in attitudes between the two groups. The two routes of teacher education examined are the University of Cambridge Postgraduate Certificate of Education (PGCE) and Teach First.
+
+Drawing on definitions, indicators, andmethodologies of democratic education proposed by, among others, Gutmann (1999), Crick (1999), and Ritchie (2012), the study employed multiple methods. Six trainee teachers from each route were interviewed about their attitudes toward democratic citizenship education and their philosophies of education. Data were also collected from documents from the teacher education programmes and lesson plans from the participants.
+The talk will offer various findings about the teacher education programmes, novice
+teachers, and democratic citizenship education; implications for education systems
+and society will also be discussed.
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/jI_z1WHGmEs?list=PL05xoCyH--gB2_gERIPBn1XLh-YMDIUjJ&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<h3>James Black - Treating the 'healthy sick' after screen-detected diabetes diagnosis</h3>
+
+Type 2 diabetes increases an individual’s risk of Cardiovascular Disease (CVD). Trials have demonstrated the long term macro-vascular benefits of lowering glucose, as well as other CVD risk factors, in populations with established diabetes. This suggests targeting CVD risk factors improves both short and long term outcomes in diabetes. Many nations have introduced screening programmes for diabetes, including the NHS in England, which tests for diabetes within its Health Checks programme. This will lead to a greater number of individuals being diagnosed early, where we know less about the outcomes of intensive treatment. The potential harms of intensive treatment are likely to manifest early, while benefits will likely appear years later, which is particularly relevant to a population with screen detected diabetes. Much of the literature also relates to lowering CVD risk factors years after diagnosis, which may not represent the effects of managing risk factors intensively from diagnosis. Using data from the ADDITION-Europe randomised controlled trial I demonstrate that a population with screen-detected diabetes has a diverse cardio-metabolic health profile, which results in individuals experiencing a wide range of disease trajectories. By better understanding variation at the individual level clinicians are better placed to provide care that reflects the balance between disease prevention and over-medicalisation.
+
+<h3>Ainur Seitkan - Developing a novel method for processing of refractory gold-arsenic bearing concentrates</h3>
+
+The Bakyrchik ore deposit of East Kazakhstan is one of the largest gold deposits in the world. Discovered in 1956, the area has been mined since 1965. Throughout, gold is dispersed in the pyrite and arsenopyrite in the form of microscopic inclusions. This complicates recovery because, although gold can potentially be released by roasting, in the presence of air this would be accompanied by arsenic release into the atmosphere in the form of highly toxic arsenic oxide. Further complication arises from the presence of more than 10% of active carbon in the ore. This excludes the use of conventional cyanide leaching methods due to the high sorption capacity of carbon.
+
+Alternative recovery methods employing bacterial and pressure oxidation have previously been proposed, but typically this result in poor recovery rates of less than 60%. Since 1992 extensive metallurgical test work and multiple scoping studies were undertaken to determine a potentially viable development approach to Bakyrchik. However, due to low gold recoveries all of the tested options were abandoned and since 1997 Bakyrchik is in sustained care and maintenance. Rising demand for the industrial use of precious metals and a toughening of requirements for environmental protection, necessitates search and development of new environmentally safe and effective methods for processing refractory gold-arsenic bearing materials. The objective of the study was to develop a novel method for processing of refractory gold-arsenic bearing concentrates, which solves two main problems: improves extraction of gold and converts arsenic to a low-toxic product convenient for long-term storage or transportation.
+
+<h2>Keynote talk - PROFESSOR JAMES R CRAWFORD</h2>
+
+James Crawford AC, FBA was elected a Judge of the International Court of Justice in November 2014 and took up this position in February 2015 for a 9-year term. Previously he was Whewell Professor of International Law at the University of Cambridge and a Professorial Fellow of Jesus College; he has also held chairs at Adelaide, Sydney and LaTrobe Universities in Australia and is Chang Jiang Distinguished Professor at Xi’an Jiaotong University, PRC.
+
+He was responsible for the ILC’s work on the International Criminal Court (1994) and for the second reading of the ILC Articles on State Responsibility (2001). During his practicing career, he was involved as counsel, expert or arbitrator in some 100 cases before the International Court and other international tribunals.
+Publications include The Creation of States in International Law (2nd edn, 2006); Brownlie’s Principles of Public International Law (8th edn, 2012); State Responsibility: The General Part (2013), and Chance, Order, Change: The Course of International Law (2014).
+
+In his practicing career he was frequently involved in disputes involving scientific and technical evidence – these included Southern Blue-fin Tuna (Australia/Japan), Baglihar and Kishenganga (disputes over Indian hydropower projects on the Indus River system), Construction of a Road (Nicaragua/Costa Rica) (sedimentation of Rio San Juan), Chevron v Ecuador (impact of oil exploration in the Amazon Basin) and Whaling in the Antarctic (Australia/Japan) (dispute over ‘scientific whaling’ under Article VIII of the Whaling Convention of 1948).
+
+In his keynote address he will reflect on the interaction between lawyers and scientists in the context of international disputes.
+
+</div>
+
+</article>

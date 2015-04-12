@@ -5,8 +5,6 @@ categories: gradcon
 
 ---
 
-# Talks with video
-
 ## Sciences
 
 ### Andrew Singleton - What is the string theory thing anyway?
