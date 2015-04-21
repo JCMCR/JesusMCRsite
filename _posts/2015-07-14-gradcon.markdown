@@ -42,6 +42,8 @@ In this work, a vision-based articulation angle sensing system has been develope
 
 Current work includes the refinement of these systems and the development of a vision-based cyclist detection system. Both systems are to form part of a larger vision-based sensing and awareness concept for heavy goods vehicles.
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/b3r-Hcj5ftc?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 <a name="Dobrinin"></a>
 <h3>Melody Dobrinin - How accents change in foreign environments</h3>
 
@@ -130,6 +132,8 @@ Man is capable of making a full 360-degree rotation on a playground swing. But w
 
 Having determined the differential equations governing the motion of the swing, these were programmed in MATLAB in a numerical model. Using this, different values of the ‘point of movement’ and ‘time of movement’ variables were simulated. The simulation would simulate until a full vertical upright position was achieved, recording the time as Tπ.
 To validate the numerical model in MATLAB a scale model (1:10) was developed. With this scale model, capable of swinging fully autonomously using an Arduino chip, the same simulations as done in the numerical model were performed. Results from the scale model differed slightly from the numerical model, mainly due to scaling of air resistance. When this is taken into account, these runs validated the numerical model, from which the conclusion could be drawn that a minimal ‘time of movement’ and a ‘point of movement’ as close to the vertical as possible would provide a minimal Tπ.
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/HI3vCB53pXQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <a name="Rauch"></a>
 <h3>CJ Rauch - Novice teachers and democracy: community, choice and curricula in conflict</h3>
