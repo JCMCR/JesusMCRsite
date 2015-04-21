@@ -8,16 +8,32 @@ categories: gradcon
 
 <div class="all-questions">
 
+<a href="#Singleton">Andrew Singleton - The black hole information paradox</a> <br/>
+<a href="#DeSaxe">Chris de Saxe - Vision-based articulation angle sensing systems</a> <br/>
+<a href="#Dobrinin">Melody Dobrinin - How accents change in foreign environments</a> <br/>
+<a href="#Hinojosa">Bernardo Sarmiento-Hinojosa - Teaching in verse in the fourteenth century</a> <br/>
+<a href="#Woods">Jenny Woods - From volcanic intrusion to fissure eruption, Holuhraun, Iceland, 2014</a> <br/>
+<a href="#Lockhart">Jeff Lockhart - Venus and Mars: The obsessive search for sex differences in biology</a> <br/>
+<a href="#Lees">John Lees - Genome wide association studies, ten years on</a> <br/>
+<a href="#Shinohara">Hajime Shinohara - Angry materials</a> <br/>
+<a href="#Baker">Emily Baker - Encounters with Nazism, the second world war, and the holocaust in contemporary Latin American literature</a> <br/>
+<a href="#Kempenaer">Matthijs de Kempenaer - Efficient swinging</a> <br/>
+<a href="#Rauch">CJ Rauch - Novice teachers and democracy: community, choice and curricula in conflict</a> <br/>
+<a href="#Black">James Black - Treating the 'healthy sick' after screen-detected diabetes diagnosis</a> <br/>
+<a href="#Seitkan">Ainur Seitkan - Developing a novel method for processing of refractory gold-arsenic bearing concentrates</a> <br/>
+
 <h2>Prize winners</h2>
 
+<a name="Singleton"></a>
 <h3>Andrew Singleton - The black hole information paradox</h3>
 
 Black holes are black. This sounds like an uncontroversial statement! It's well known that black holes are regions of space from which nothing, not even light, can escape. This simple idea has served both physicists and second-rate science fiction authors well since the first black holes were described nearly 100 years ago.
 
 Unfortunately, it's probably wrong. The mere statement that black holes are black seems to be fundamentally in conflict with quantum mechanics. The cleanest example of this conflict is the information paradox. Rule number 1 of quantum information theory says that information can neither be created nor destroyed, but a truly black black hole seems like a very effective information destroyer: any information we have about anything unfortunate enough to fall into a black hole seems to be lost forever. The resolution of this paradox is one of the great unsolved problems of fundamental physics, and promises to teach us a great deal about the basic workings of our universe.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/3uOzeKQlEZc?list=PL05xoCyH--gB2_gERIPBn1XLh-YMDIUjJ&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/3uOzeKQlEZc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+<a name="DeSaxe"></a>
 <h3>Chris de Saxe - Vision-based articulation angle sensing systems</h3>
 
 Heavy goods vehicles (HGVs) pose an inherent road safety risk by virtue of their size, dimensions and configuration, and there is a trend worldwide towards longer and heavier HGVs due to their proven efficiency and productivity benefits. At high speeds, HGVs may become unstable and difficult to control leading to rollover or jack knifing, and at low speeds exhibit significant "corner-cutting" during turning. These characteristics are exacerbated when one or more trailer units are present. Active trailer steering control and advanced braking control technologies have been shown to address some of these issues, but rely on numerous and often expensive instrumentation in both truck and trailer units. A particularly crucial sensor is that of articulation angle between truck and trailer, requiring the existence of trailer-based instrumentation. In practice this is impractical, and the industrial implementation of such systems will be limited unless more or all of the required instrumentation could be tractor-based.
@@ -26,6 +42,7 @@ In this work, a vision-based articulation angle sensing system has been develope
 
 Current work includes the refinement of these systems and the development of a vision-based cyclist detection system. Both systems are to form part of a larger vision-based sensing and awareness concept for heavy goods vehicles.
 
+<a name="Dobrinin"></a>
 <h3>Melody Dobrinin - How accents change in foreign environments</h3>
 
 A person’s accent is an important part of their cultural identity however, there are certain circumstances in which pronunciation and comprehensibility can greatly affect a person’s work and personal lives. Some people live in a foreign country for twenty years and still maintain their native accent, while some peoples’ accents change after a two-week holiday.
@@ -33,6 +50,7 @@ This study aims to test whether perception skills, mimicry skills, and demograph
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/videoseries?list=PL05xoCyH--gB2_gERIPBn1XLh-YMDIUjJ" frameborder="0" allowfullscreen></iframe>
 
+<a name="Hinojosa"></a>
 <h3>Bernardo Sarmiento-Hinojosa - Teaching in verse in the fourteenth century</h3>
 
 When we think about what “literature” is, we often think about modern ideas of narrative and fiction. Throughout the Middle Ages, however, the majority of England’s literary output constituted technical didactic literature, far removed from the paperbacks that today line storefronts. I argue, however, that this changed in the early fourteenth century when writers and theologians realized that verse and narrative could be used as pedagogic tools.
@@ -41,9 +59,11 @@ The Fourth Lateran Council of 1215 was one of the primary catalysts of vernacula
 
 In this presentation I wish to introduce a non-specialist audience to little-known medieval texts and argue that these texts’ emphasis on entertainment and aesthetic pleasure eventually gave rise to poems such as Chaucer’s Canterbury Tales and beyond.
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/hTdMY5wuL24?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <h2>All talks</h2>
 
+<a name="Woods"></a>
 <h3>Jenny Woods - From volcanic intrusion to fissure eruption, Holuhraun, Iceland, 2014</h3>
 
 August 2014 saw the beginning of a period of unrest in the Bardarbunga volcanic
@@ -65,6 +85,7 @@ techniques and implications are discussed.
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/mxbyPbaveG4" frameborder="0" allowfullscreen></iframe>
 
+<a name="Lockhart"></a>
 <h3>Jeff Lockhart - Venus and Mars: The obsessive search for sex differences in biology</h3>
 
 Neurologists and psychologists have long researched biological sex differences between men and women. They compare brain size, toddlers' toy choice, hormone levels, and myriad other things to measure precisely how men and women are two distinct groups—sexually dimorphic.
@@ -75,6 +96,7 @@ Despite four decades of scientific feminist criticism, these studies are not par
 
 Using feminist criticisms of science, social science, and statistical re-analysis of sex difference studies, this work develops a new way to evaluate sex difference research without dismissing it off hand. This new approach is designed specifically to be accessible to non-expert audiences, and to hold scientific research accountable for its public reception.
 
+<a name="Lees"></a>
 <h3>John Lees - Genome wide association studies, ten years on</h3>
 
 Since the introduction of high throughput sequencing in 2007 we have been able to
@@ -89,16 +111,19 @@ A major success has been in associating genetic variants with phenotypes: likeli
 In this talk I’ll cover how these studies are performed from data collection to analysis, all that we’ve learnt from them, and how this information is making its way to hospital near you. I’ll also talk about commercial services such as 23andme and make the inevitable comparison of ‘big data’ to everyone’s favourite European particle physics collaboration, CERN.
 Finally, I'll mention the tiny dent my PhD might make in this area.
 
+<a name="Shinohara"></a>
 <h3>Hajime Shinohara - Angry materials</h3>
 
 If people get angry, there are observable effects. For example, someone's face would turn red or their breath would become rough. Similar to human beings, materials get "angry" and "frustrated" in specific conditions. If they are angry, some special effects happen. In this presentation, I will talk about angry materials, how they got angry and how frustrated materials can be utilized in our society.
 
+<a name="Baker"></a>
 <h3>Emily Baker - Encounters with Nazism, the second world war, and the holocaust in contemporary Latin American literature</h3>
 
 Over the past two decades authors from Mexico, Colombia, Brazil, Argentina and Chile have all produced highly successful novels taking the themes of Nazism or the Holocaust as central preoccupations. My original research question was, therefore, why are Latin American authors interested in this period of “European” history now? One might be forgiven for thinking 'well, lots of Nazis fled to South America, didn't they?' - but this alone fails to explain the particular timing, the wide-ranging approaches and the diverse engagements with the topic that can be observed among them.
 
 Now, nearing the end of my project, some points in common that I have identified in my investigation are interests in, and meditations on, the interrelated notions of 'conspiracy,' on the one hand and 'community,' on the other. One of the novels in particular, 'The Informers' (2011) by Colombian writer Juan Gabriel Vásquez, directed me towards the writings of the French philosopher Jean-Luc Nancy, whose work on 'community' and compelling negotiation between phenomenology and deconstruction, are fast making him into one of the most influential philosophical thinkers of the present day. My thesis as a whole brings Nancy's work into contact with the Latin American literary field where, thus far, it has remained relatively unexamined. In this presentation, I hope to give an example of how 'The Informers' both engages with, and tests the limits of, Nancy's vision of an alternative form of 'community' based on interdependence, tactile associations, and 'being-in-common'. It also unveils the forgotten Colombian 'Nazi' past and uses it to interrogate problematic events of the Colombian political present.
 
+<a name="Kempenaer"></a>
 <h3>Matthijs de Kempenaer - Efficient swinging</h3>
 
 Man is capable of making a full 360-degree rotation on a playground swing. But what is the most efficient method of achieving this full rotation? This research into the dynamics of swinging on a playground swing focused on the radial excitation of a rigid swing. In theory, simulation and experiments, the most efficient way of swinging was researched. For this, two independent variables were analysed: the ‘point of movement’, the distance where the upwards body-movement takes place in the pendulum-like motion measured from the vertical and the ‘time of movement’, how long it takes for the body to make the required vertical displacement.
@@ -106,6 +131,7 @@ Man is capable of making a full 360-degree rotation on a playground swing. But w
 Having determined the differential equations governing the motion of the swing, these were programmed in MATLAB in a numerical model. Using this, different values of the ‘point of movement’ and ‘time of movement’ variables were simulated. The simulation would simulate until a full vertical upright position was achieved, recording the time as Tπ.
 To validate the numerical model in MATLAB a scale model (1:10) was developed. With this scale model, capable of swinging fully autonomously using an Arduino chip, the same simulations as done in the numerical model were performed. Results from the scale model differed slightly from the numerical model, mainly due to scaling of air resistance. When this is taken into account, these runs validated the numerical model, from which the conclusion could be drawn that a minimal ‘time of movement’ and a ‘point of movement’ as close to the vertical as possible would provide a minimal Tπ.
 
+<a name="Rauch"></a>
 <h3>CJ Rauch - Novice teachers and democracy: community, choice and curricula in conflict</h3>
 
 This comparative case study examines trainee teachers' opinions about democratic citizenship education. Specifically, the study explores the extent to which participants from two different routes of teacher education have attitudes and philosophies of education in which democratic citizenship education isa key component. Furthermore, it attempts to locate the possible causes of any differences in attitudes between the two groups. The two routes of teacher education examined are the University of Cambridge Postgraduate Certificate of Education (PGCE) and Teach First.
@@ -115,12 +141,14 @@ The talk will offer various findings about the teacher education programmes, nov
 teachers, and democratic citizenship education; implications for education systems
 and society will also be discussed.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/jI_z1WHGmEs?list=PL05xoCyH--gB2_gERIPBn1XLh-YMDIUjJ&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/jI_z1WHGmEs?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+<a name="Black"></a>
 <h3>James Black - Treating the 'healthy sick' after screen-detected diabetes diagnosis</h3>
 
 Type 2 diabetes increases an individual’s risk of Cardiovascular Disease (CVD). Trials have demonstrated the long term macro-vascular benefits of lowering glucose, as well as other CVD risk factors, in populations with established diabetes. This suggests targeting CVD risk factors improves both short and long term outcomes in diabetes. Many nations have introduced screening programmes for diabetes, including the NHS in England, which tests for diabetes within its Health Checks programme. This will lead to a greater number of individuals being diagnosed early, where we know less about the outcomes of intensive treatment. The potential harms of intensive treatment are likely to manifest early, while benefits will likely appear years later, which is particularly relevant to a population with screen detected diabetes. Much of the literature also relates to lowering CVD risk factors years after diagnosis, which may not represent the effects of managing risk factors intensively from diagnosis. Using data from the ADDITION-Europe randomised controlled trial I demonstrate that a population with screen-detected diabetes has a diverse cardio-metabolic health profile, which results in individuals experiencing a wide range of disease trajectories. By better understanding variation at the individual level clinicians are better placed to provide care that reflects the balance between disease prevention and over-medicalisation.
 
+<a name="Seitkan"></a>
 <h3>Ainur Seitkan - Developing a novel method for processing of refractory gold-arsenic bearing concentrates</h3>
 
 The Bakyrchik ore deposit of East Kazakhstan is one of the largest gold deposits in the world. Discovered in 1956, the area has been mined since 1965. Throughout, gold is dispersed in the pyrite and arsenopyrite in the form of microscopic inclusions. This complicates recovery because, although gold can potentially be released by roasting, in the presence of air this would be accompanied by arsenic release into the atmosphere in the form of highly toxic arsenic oxide. Further complication arises from the presence of more than 10% of active carbon in the ore. This excludes the use of conventional cyanide leaching methods due to the high sorption capacity of carbon.
