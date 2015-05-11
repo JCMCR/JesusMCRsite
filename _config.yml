@@ -126,6 +126,29 @@ people:
     - title: info
       url: http://epijim.uk
 
+# Team names, titles and social links. Any font awesome icon can be used (drop the fa)
+fellows:
+- name: Professor Tim Wilkinson
+  pic: Fellow-Tim-150x150
+  position: Graduate Tutor
+  social:
+    - title: paper-plane
+      url: mailto:graduate-tutor@jesus.cam.ac.uk
+
+- name: Dr Shailaja Fennell
+  pic: Fellow-Shailaja-150x150
+  position: Deputy Graduate Tutor
+  social:
+    - title: paper-plane
+      url: mailto:graduate-tutor@jesus.cam.ac.uk
+
+- name: Sheena Bridgman
+  pic: Fellow-Sheena-150x150
+  position: Graduate Secretary/Grad Mum
+  social:
+    - title: paper-plane
+      url: mailto:graduate-tutor@jesus.cam.ac.uk
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter

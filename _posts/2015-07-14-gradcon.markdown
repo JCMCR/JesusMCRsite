@@ -42,7 +42,7 @@ In this work, a vision-based articulation angle sensing system has been develope
 
 Current work includes the refinement of these systems and the development of a vision-based cyclist detection system. Both systems are to form part of a larger vision-based sensing and awareness concept for heavy goods vehicles.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/b3r-Hcj5ftc?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/b3r-Hcj5ftc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <a name="Dobrinin"></a>
 <h3>Melody Dobrinin - How accents change in foreign environments</h3>
@@ -117,6 +117,8 @@ Finally, I'll mention the tiny dent my PhD might make in this area.
 <h3>Hajime Shinohara - Angry materials</h3>
 
 If people get angry, there are observable effects. For example, someone's face would turn red or their breath would become rough. Similar to human beings, materials get "angry" and "frustrated" in specific conditions. If they are angry, some special effects happen. In this presentation, I will talk about angry materials, how they got angry and how frustrated materials can be utilized in our society.
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/1QvMqhnscHE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <a name="Baker"></a>
 <h3>Emily Baker - Encounters with Nazism, the second world war, and the holocaust in contemporary Latin American literature</h3>
