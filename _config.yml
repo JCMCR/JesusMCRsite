@@ -1,7 +1,7 @@
 url: http://mcr.jesus.cam.ac.uk
 
-baseurl: "file:///mnt/raid/Projects_Assorted/MCRWebpage/build/" #This is for development
-#baseurl: #this is for deployment
+#baseurl: "file:///mnt/raid/Projects_Assorted/MCRWebpage/build/" #This is for development
+baseurl: "http://mcr.jesus.cam.ac.uk/" #this is for deployment
 
 source:      ""
 destination: "../build"

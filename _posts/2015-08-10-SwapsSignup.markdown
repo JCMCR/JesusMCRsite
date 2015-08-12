@@ -3,8 +3,8 @@ title: Swaps Sign-up
 subtitle: Sign up for the Emma Swap
 layout: default
 categories: signups
-modal-id: 11
-date: 2015-08-05
+modal-id: 1
+date: 2015-08-01
 img: swap.jpg
 thumbnail: swap.jpg
 alt: image-alt

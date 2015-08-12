@@ -3,8 +3,8 @@ title: Table Requests
 subtitle: Seating arrangement for Super Halls
 layout: default
 categories: signups
-modal-id: 13
-date: 2015-08-06
+modal-id: 3
+date: 2015-08-03
 img: table.jpg
 thumbnail: table.jpg
 alt: image-alt

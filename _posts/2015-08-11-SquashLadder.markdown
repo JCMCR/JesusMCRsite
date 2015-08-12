@@ -4,7 +4,7 @@ subtitle: Want to play squash with other Jesus Grads?
 layout: default
 categories: signups
 modal-id: 4
-date: 2014-07-15
+date: 2014-07-02
 img: squash.jpg
 thumbnail: squash.jpg
 alt: image-alt

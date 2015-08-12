@@ -4,7 +4,7 @@ subtitle: Sign up for whisky tastings
 layout: default
 categories: signups
 modal-id: 5
-date: 2015-08-11
+date: 2015-08-24
 img: whisky.jpg
 thumbnail: whisky.jpg
 alt: image-alt
