@@ -1,0 +1,15 @@
+---
+title: Caius Bop
+subtitle: Sign up for the Emma Swap
+layout: default
+categories: signups
+modal-id: 7
+date: 2015-08-11
+img: swap.jpg
+thumbnail: swap.jpg
+alt: image-alt
+---
+
+This was last year... bit late really.
+
+I'm sure there'll be more this year so don't panic.
