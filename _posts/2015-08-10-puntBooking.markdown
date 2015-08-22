@@ -2,7 +2,7 @@
 title: Punt Booking
 subtitle: Don't Book the punt
 layout: default
-categories: signups
+categories: private signups
 modal-id: 2
 date: 2015-08-10
 img: punting.jpg

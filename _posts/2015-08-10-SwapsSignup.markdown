@@ -2,7 +2,7 @@
 title: Swaps Sign-up
 subtitle: Sign up for the Emma Swap
 layout: default
-categories: signups
+categories: private signups
 modal-id: 1
 date: 2015-08-01
 img: swap.jpg

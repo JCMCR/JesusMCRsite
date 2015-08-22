@@ -2,7 +2,7 @@
 title: Whisky Club
 subtitle: Sign up for whisky tastings
 layout: default
-categories: signups
+categories: private signups
 modal-id: 5
 date: 2015-08-24
 img: whisky.jpg

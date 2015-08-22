@@ -1,5 +1,10 @@
 ---
-layout: academic
+layout: defaultPlain
+subtitle: A subsite showcasing previous
+title: MCR Academic Events
+logoLink: /
+menu2: Main Site
+menu2Link: /
 ---
 
 <div class="container">

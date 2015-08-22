@@ -1,8 +1,12 @@
 ---
 title: 3MT 2013
-layout: academicpost
-categories: 3mt
-
+layout: defaultPlain
+categories: academic 3mt
+logoLink: /
+menu1: Academic Home
+menu1Link: /academic/
+menu2: Main Site
+menu2Link: /
 ---
 
 ## Sciences

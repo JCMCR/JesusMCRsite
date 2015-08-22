@@ -8,6 +8,7 @@ body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.color.secondary-dark }};
+    min-height: 100%;
 }
 
 .text-muted {
@@ -275,12 +276,12 @@ header {
     -o-background-size: cover;
 }
 
-header .intro-text {
+header .short-intro-text, header .intro-text {
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
-header .intro-text .intro-lead-in {
+header .short-intro-text .intro-lead-in, header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
@@ -297,13 +298,26 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header .short-intro-text .intro-heading{
+    margin-bottom: 25px;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    line-height: 22px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
     }
 
-    header .intro-text .intro-lead-in {
+    header .short-intro-text {
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+
+    header .short-intro-text .intro-lead-in, header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 40px;
@@ -318,6 +332,14 @@ header .intro-text .intro-heading {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
+    }
+
+    header .short-intro-text .intro-heading {
+        margin-bottom: 25px;
+        text-transform: uppercase;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 40px;
+        line-height: 40px;
     }
 }
 

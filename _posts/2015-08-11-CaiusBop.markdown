@@ -2,7 +2,7 @@
 title: Caius Bop
 subtitle: Sign up for the Emma Swap
 layout: default
-categories: signups
+categories: private signups
 modal-id: 7
 date: 2015-08-30
 img: swap.jpg

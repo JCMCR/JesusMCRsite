@@ -2,7 +2,7 @@
 title: Parent System Sign-up
 subtitle: Sign up for to be a College Parent
 layout: default
-categories: signups
+categories: private signups
 modal-id: 6
 date: 2014-07-06
 img: table2.jpg
