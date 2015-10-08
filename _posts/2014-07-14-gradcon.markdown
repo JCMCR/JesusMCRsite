@@ -1,7 +1,12 @@
 ---
-title: Gradcon 2014
-layout: academicpost
-categories: gradcon
+title: Graduate Conference 2014
+layout: defaultPlain
+categories: academic gradcon
+logoLink: /
+menu1: Academic Home
+menu1Link: /academic/
+menu2: Main Site
+menu2Link: /
 
 ---
 

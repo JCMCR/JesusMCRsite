@@ -1,12 +1,14 @@
 url: http://mcr.jesus.cam.ac.uk
-baseurl:
+#url: http://0.0.0.0:4000
 
-source:      "/Users/Jimmy/JesusMCRsite"
-destination: "/Users/Jimmy/MCRsite_test"
+baseurl: "/"
+
+source:      ""
+destination: "../build"
 
 # Site settings
 title: Jesus College MCR
-email: j.ames.a.black@gmail.com
+email: jjm61@cam.ac.uk
 description: "Jesus College MCR (Graduate Society), University of Cambridge."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -17,114 +19,107 @@ color:
 
 # Team names, titles and social links. Any font awesome icon can be used (drop the fa)
 people:
-- name: Rebecca Forster
-  pic: Rebecca-Forster-150x150
-  position: MCR President
+- name: C.J. Rauch
+  pic: 2015-CJ-Rauch
+  position: President
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=aQdyuDi7KG7H2oAxa6G1_N5KhkQaNHytGGuhzg3LD1E=
 
-- name: Chris de Saxe
-  pic: Chris-de-Saxe-150x150
-  position: Vice-president
+- name: John Lees
+  pic: 2015-John-Lees
+  position: Vice-President
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=BjVjndDJCy1j5clAsHoPGwZsF26Z01BiXnH93GM-90mBaykr5bmEsUAFgjdSeY23
 
-- name: Christine van Hooft
-  pic: Christine-van-Hooft-150x150
+- name: Ettie Unwin
+  pic: 2015-Ettie-Unwin
   position: Secretary
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=s9z7dIADNWoax1H0hTLY2pmMl7bqQmfQB1y5mPyp-NY=
 
-- name: Marcus Webb
-  pic: Marcus-Webb-150x150
+- name: Jan Beitner
+  pic: 2015-Jan-Beitner
   position: Treasurer
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=HSGVFgyqUuTpXgpbKaHWPcwru6rOMMLIgQZcr7_WnMU=
 
-- name: Chris Brown
-  pic: Chris-Brown-150x150
-  position: Social officer
+- name: Miles Stopher & Ross Lindsay
+  pic: 2015-Miles-Stopher-Ross-Lindsay
+  position: Social Officer
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=hZK4Mk1fNQkFU0pc8KqmnoqmebM4rYreCHLtWjktEIc=
 
-- name: John Lees
-  pic: John-Lees-150x150
-  position: Social officer
-  social:
-    - title: paper-plane
-      url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=hZK4Mk1fNQkFU0pc8KqmnoqmebM4rYreCHLtWjktEIc=
-
-- name: Kate Crowcroft
-  pic: Kate-Crowcroft-150x150
-  position: Women's welfare
+- name: Hannah Meyer
+  pic: 2015-Hannah-Meyer
+  position: Women's Welfare
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=gRdP7HrS7q6H_9UaOniDlG8LBgc97_eANTCGYNWoPY4=
 
-- name: Dave Bowly
-  pic: Dave-150x150
-  position: Men's welfare
+- name: Francis Wragg
+  pic: 2015-Francis-Wragg
+  position: Men's Welfare
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=01nSdl5o8KNFEmhrYtN4C-Kw==&c=c3m-YX2_hr5tGx4ugoYOw_O-Oj-W6h0z7gzNeUIQfXY=
 
-- name: C.J. Rauch
-  pic: CJ-Rauch-150x150
+- name: Bernardo Sarmiento
+  pic: 2015-Bernardo-Sarmiento
   position: LGBT+ Welfare
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=-kvR76zRmmVis3kuLgDaoNEs7Ekh0gFRoDOmaFkQZ5I=
 
-- name: Pu Liu
-  pic: Pu-Liu-150x150
-  position: International officer
+- name: Rebecca Forster
+  pic: 2015-Rebecca-Forster
+  position: International Welfare
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=SQY8J09AaGPG1NYnTNlebzFWZ8fjsCOK70k3yE3uYia1l0vuNk8VUzWKcAJHZ1Xr
 
-- name: Jeremy Minton
-  pic: Jeremy-Minton-150x150
-  position: Academic officer
+- name: Sunnia Xing
+  pic: 2015-Sunnia-Xing
+  position: Academic Officer
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=WWrM2esLbjx5625bc_hLlIVyGyX0rAF6bXR4E28yh3c=
 
-- name: Yee-Chien Chang Webb
-  pic: Yee-Chien-Chang-Webb-150x150
-  position: Green officer
+- name: Jacky Liu
+  pic: 2015-Jacky-Liu
+  position: Green Officer
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=y5IWlfBaTDz_VwDy137-0Q_SzB6h51UpnvC6Qjbdvuc=
 
-- name: Jan Beitner
-  pic: Jan-Beitner-150x150
-  position: College council
+- name: Chris Hellmund
+  pic: 2015-Chris-Hellmund
+  position: College Council Representative
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=XkoLye-sVWSQj1YOq3-VY0tr8UEt1ALcCKJrTNX_MGGjC1u5-v9k4avalobib5nj
 
-- name: Alex Evans
-  pic: Alex-Evans-150x150
-  position: Sports officer
+- name: Demetris Demetriou
+  pic: 2015-Demetris-Demetriou
+  position: Sports Officer
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=e-pI041rLRnWFInyuaBr5imkpKJsGBigigE6kFRIuG8=
 
-- name: James Black
-  pic: JamesB-150x150
-  position: MCR webmaster
+- name: Jeremy Minton
+  pic: 2015-Jeremy-Minton
+  position: Webmaster
   social:
     - title: github
-      url: https://github.com/epijim
+      url: https://github.com/JJMinton
     - title: paper-plane
       url: mailto:mcr-webmaster@jesus.cam.ac.uk
     - title: info
-      url: http://epijim.uk
+      url: http://jeremyminton.co.nz
 
 # Team names, titles and social links. Any font awesome icon can be used (drop the fa)
 fellows:
@@ -156,7 +151,7 @@ social:
   - title: facebook
     url: https://www.facebook.com/groups/jesus.newgrads2011
   - title: github
-    url: https://github.com/epijim/JesusMCRsite
+    url: https://github.com/JJMinton/JesusMCRsite
   - title: linkedin
     url: https://www.linkedin.com/groups?home=&gid=872067&trk=my_groups-tile-grp
 
