@@ -1,0 +1,51 @@
+#!/bin/sh
+
+
+BRANCH=`git rev-parse --abbrev-ref HEAD`
+BUILD_DIRECTORY=../build/
+DEPLOYMENT_TARGET=jjm61@jeremyminton.co.nz:/var/www/jeremyminton.co.nz/workout_public/
+
+BUILD_COMMAND="jekyll build --destination $BUILD_DIRECTORY"
+DEPLOY_COMMAND="rsync -avr --delete-after --delete-excluded $BUILD_DIRECTORY $DEPLOYMENT_TARGET"
+
+# Check which branch it's on
+if [ $BRANCH == "deploy" ]; then
+
+	exec < /dev/tty
+
+	read -r -p "Do you want to compile? [Y/n] " response
+	if [[ $response  =~ ^([nN][oO]|[nN])$ ]]; then
+		echo "Skippping compilation"
+		exit 1
+	else
+		echo "Compiling..."
+		if $BUILD_COMMAND; then
+			echo "Compiled."
+		else
+			echo "Compile failed: aborting commit."
+			exit 1
+		fi
+	fi
+
+	read -r -p "Do you want to deploy? [Y/n] " response
+	if [[ $response  =~ ^([nN][oO]|[nN])$ ]]; then
+		echo "Skippping deployment"
+	else
+		echo "Deploying..."
+		if $DEPLOY_COMMAND; then
+			echo "Deployed."	
+		else
+			echo "Deploy failed: aborting commit."
+			exit 1
+		fi
+	fi
+
+	read -r -p "Do you want to commit? [Y/n] " response
+	if [[ $response  =~ ^([nN][oO]|[nN])$ ]]; then
+		echo "Skippping commit"
+		exit 1
+	else
+		echo "Commiting..."
+		exit 0
+	fi
+fi
