@@ -1,6 +1,4 @@
 url: http://mcr.jesus.cam.ac.uk
-#url: http://0.0.0.0:4000
-
 baseurl: "/"
 
 source:      ""
@@ -19,92 +17,99 @@ color:
 
 # Team names, titles and social links. Any font awesome icon can be used (drop the fa)
 people:
-- name: C.J. Rauch
-  pic: 2015-CJ-Rauch
+- name: Ettie Unwin
+  pic: 2016-Ettie-Unwin
   position: President
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=aQdyuDi7KG7H2oAxa6G1_N5KhkQaNHytGGuhzg3LD1E=
 
-- name: John Lees
-  pic: 2015-John-Lees
+- name: Chris Jones
+  pic: 2016-Chris-Jones
   position: Vice-President
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=BjVjndDJCy1j5clAsHoPGwZsF26Z01BiXnH93GM-90mBaykr5bmEsUAFgjdSeY23
 
-- name: Ettie Unwin
-  pic: 2015-Ettie-Unwin
+- name: Jenni Holian
+  pic: 2016-Jennie-Holian
   position: Secretary
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=s9z7dIADNWoax1H0hTLY2pmMl7bqQmfQB1y5mPyp-NY=
 
-- name: Jan Beitner
-  pic: 2015-Jan-Beitner
+- name: Christine van Hooft
+  pic: 2016-Christine-van-Hooft
   position: Treasurer
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=HSGVFgyqUuTpXgpbKaHWPcwru6rOMMLIgQZcr7_WnMU=
 
-- name: Miles Stopher & Ross Lindsay
-  pic: 2015-Miles-Stopher-Ross-Lindsay
+- name: Cai Read
+  pic: 2016-Cai-Read
   position: Social Officer
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=hZK4Mk1fNQkFU0pc8KqmnoqmebM4rYreCHLtWjktEIc=
 
-- name: Hannah Meyer
-  pic: 2015-Hannah-Meyer
+- name: Taylor Saunders-Wood
+  pic: 2016-Taylor-Saunders-Wood
+  position: Social Officer
+  social:
+    - title: paper-plane
+      url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=hZK4Mk1fNQkFU0pc8KqmnoqmebM4rYreCHLtWjktEIc=
+
+- name: Rachael Huntly
+  pic: 2016-Rachael-Huntly
   position: Women's Welfare
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=gRdP7HrS7q6H_9UaOniDlG8LBgc97_eANTCGYNWoPY4=
 
-- name: Francis Wragg
-  pic: 2015-Francis-Wragg
+- name: Demetris Demetriou
+  pic: 2016-Demetris-Demetriou
   position: Men's Welfare
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=01nSdl5o8KNFEmhrYtN4C-Kw==&c=c3m-YX2_hr5tGx4ugoYOw_O-Oj-W6h0z7gzNeUIQfXY=
 
-- name: Bernardo Sarmiento
-  pic: 2015-Bernardo-Sarmiento
-  position: LGBT+ Welfare
-  social:
-    - title: paper-plane
-      url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=-kvR76zRmmVis3kuLgDaoNEs7Ekh0gFRoDOmaFkQZ5I=
+#- name: Bernardo Sarmiento
+#  pic: 2015-Bernardo-Sarmiento
+#  position: LGBT+ Welfare
+#  social:
+#    - title: paper-plane
+#      url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=-kvR76zRmmVis3kuLgDaoNEs7Ekh0gFRoDOmaFkQZ5I=
 
-- name: Rebecca Forster
-  pic: 2015-Rebecca-Forster
+- name: Sarah Kaewert
+  pic: 2016-Sarah-Kaewert
   position: International Welfare
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=SQY8J09AaGPG1NYnTNlebzFWZ8fjsCOK70k3yE3uYia1l0vuNk8VUzWKcAJHZ1Xr
 
-- name: Sunnia Xing
-  pic: 2015-Sunnia-Xing
+- name: John Carpenter
+  pic: 2016-John-Carpenter
   position: Academic Officer
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=WWrM2esLbjx5625bc_hLlIVyGyX0rAF6bXR4E28yh3c=
 
-- name: Jacky Liu
-  pic: 2015-Jacky-Liu
+- name: David Pattinson
+  pic: 2016-David-Pattinson
   position: Green Officer
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=y5IWlfBaTDz_VwDy137-0Q_SzB6h51UpnvC6Qjbdvuc=
 
-- name: Chris Hellmund
-  pic: 2015-Chris-Hellmund
+- name: Silvia Basilico
+  pic: 2016-Silvia-Basilico
   position: College Council Representative
   social:
     - title: paper-plane
       url: http://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=XkoLye-sVWSQj1YOq3-VY0tr8UEt1ALcCKJrTNX_MGGjC1u5-v9k4avalobib5nj
 
-- name: Demetris Demetriou
-  pic: 2015-Demetris-Demetriou
+- name: Hannah Meyer
+  pic: 2016-Hannah-Meyer
   position: Sports Officer
   social:
     - title: paper-plane
@@ -123,6 +128,13 @@ people:
 
 # Team names, titles and social links. Any font awesome icon can be used (drop the fa)
 fellows:
+- name: Dr Michael Edwards
+  pic: Fellow-Edwards-150x150
+  position: Deputy Graduate Tutor
+  social:
+    - title: paper-plane
+      url: mailto:graduate-tutor@jesus.cam.ac.uk
+
 - name: Professor Tim Wilkinson
   pic: Fellow-Tim-150x150
   position: Graduate Tutor
@@ -130,16 +142,9 @@ fellows:
     - title: paper-plane
       url: mailto:graduate-tutor@jesus.cam.ac.uk
 
-- name: Dr Shailaja Fennell
-  pic: Fellow-Shailaja-150x150
-  position: Deputy Graduate Tutor
-  social:
-    - title: paper-plane
-      url: mailto:graduate-tutor@jesus.cam.ac.uk
-
-- name: Sheena Bridgman
-  pic: Fellow-Sheena-150x150
-  position: Graduate Secretary/Grad Mum
+- name: Vanessa Bowman
+  pic: 
+  position: Graduate Secretary
   social:
     - title: paper-plane
       url: mailto:graduate-tutor@jesus.cam.ac.uk
