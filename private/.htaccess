@@ -4,16 +4,3 @@ AuthType Ucam-WebAuth
 AuthGroupFile /societies/gradsoc/public_html/currentstudents/.htravengroups
 Require group honourarymcr mcr
 Satisfy any
-
-
-# BEGIN WordPress
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /EntsSite/
-RewriteRule ^index\.php$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /EntsSite/index.php [L]
-</IfModule>
-
-# END WordPress
