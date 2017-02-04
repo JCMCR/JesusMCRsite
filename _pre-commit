@@ -2,7 +2,6 @@
 
 
 BRANCH=`git rev-parse --abbrev-ref HEAD`
-
 # Check which branch it's on
 if [ $BRANCH == "deploy" ]; then
 

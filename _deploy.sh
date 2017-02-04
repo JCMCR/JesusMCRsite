@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 BUILD_DIRECTORY=../build/
 DEPLOYMENT_TARGET=jjm61@zeus.jesus.cam.ac.uk:/societies/gradsoc/public_html
