@@ -128,9 +128,9 @@ people:
 
 # Team names, titles and social links. Any font awesome icon can be used (drop the fa)
 fellows:
-- name: Dr Michael Edwards
-  pic: Fellow-Edwards-150x150
-  position: Deputy Graduate Tutor
+- name: Dr Sybil Stacpoole
+  pic: Fellow-Stacpoole-150x150
+  position: Assistant Deputy Graduate Tutor
   social:
     - title: paper-plane
       url: mailto:graduate-tutor@jesus.cam.ac.uk
