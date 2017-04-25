@@ -20,7 +20,7 @@ fa icons are used extensively. While usually the fa gives this away, in the `_co
 
 # Live site
 
-View this theme in action [here](http://mcr.jesus.cam.ac.uk)
+View this theme in action [here](https://mcr.jesus.cam.ac.uk)
 
 # Updating the site
 
