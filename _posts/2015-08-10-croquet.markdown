@@ -1,0 +1,14 @@
+---
+title: MCR Croquet Sign-ups
+subtitle: Sign up to use the MCR Croquet set
+layout: default
+categories: private signups
+modal-id: 1
+date: 2015-08-01
+img: croquet.jpg
+thumbnail: croquet.jpg
+alt: croquet
+
+---
+
+The MCR croquet set can be signed out from the Porter's Lodge after signing up <a href="https://docs.google.com/spreadsheets/d/1VH6p8TJ7fBJd0zsq2FdIza6y7u7nUIF0dRGzhFmizAM/edit?usp=sharing" target='_blank'>here.</a>
