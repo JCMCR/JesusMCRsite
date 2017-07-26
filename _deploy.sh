@@ -1,7 +1,7 @@
 #!/bin/bash
 
 BUILD_DIRECTORY=../build/
-DEPLOYMENT_TARGET=jjm61@zeus.jesus.cam.ac.uk:/societies/gradsoc/public_html
+DEPLOYMENT_TARGET=kd400@zeus.jesus.cam.ac.uk:/societies/gradsoc/public_html
 
 BUILD_COMMAND="jekyll build --destination $BUILD_DIRECTORY"
 DEPLOY_COMMAND="rsync -avr $BUILD_DIRECTORY $DEPLOYMENT_TARGET"

@@ -3,10 +3,10 @@ baseurl: "/"
 
 source:      ""
 destination: "../build"
-
+ 
 # Site settings
 title: Jesus College MCR
-email: jjm61@cam.ac.uk
+email: kd400@cam.ac.uk
 description: "Jesus College MCR (Graduate Society), University of Cambridge."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -17,85 +17,89 @@ color:
 
 # Team names, titles and social links. Any font awesome icon can be used (drop the fa)
 people:
-- name: Ettie Unwin
-  pic: 2016-Ettie-Unwin
+- name: Taylor Saunders-Wood
+  pic: 2017-Taylor-Saunders-Wood
   position: President
   social:
     - title: paper-plane
       url: https://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=aQdyuDi7KG7H2oAxa6G1_N5KhkQaNHytGGuhzg3LD1E=
 
-- name: Chris Jones
-  pic: 2016-Chris-Jones
+- name: Jennifer Holian
+  pic: 2017-Jennie-Holian
   position: Vice-President
   social:
     - title: paper-plane
       url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=BjVjndDJCy1j5clAsHoPGwZsF26Z01BiXnH93GM-90mBaykr5bmEsUAFgjdSeY23
 
-- name: Jenni Holian
-  pic: 2016-Jennie-Holian
+- name: Bee Fonseka
+  pic: 2017-Bee-Fonseka
   position: Secretary
   social:
     - title: paper-plane
       url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=s9z7dIADNWoax1H0hTLY2pmMl7bqQmfQB1y5mPyp-NY=
 
-- name: Christine van Hooft
-  pic: 2016-Christine-van-Hooft
+- name: Emma Findlay
+  pic: 2017-Emma-Findlay
   position: Treasurer
   social:
     - title: paper-plane
       url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=HSGVFgyqUuTpXgpbKaHWPcwru6rOMMLIgQZcr7_WnMU=
 
-- name: Cai Read
-  pic: 2016-Cai-Read
+- name: Anika Krause
+  pic: 2017-Anika-Krause
   position: Social Officer
   social:
     - title: paper-plane
       url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=hZK4Mk1fNQkFU0pc8KqmnoqmebM4rYreCHLtWjktEIc=
 
-- name: Taylor Saunders-Wood
-  pic: 2016-Taylor-Saunders-Wood
+- name: David Jarvis
+  pic: 2017-David-Jarvis
   position: Social Officer
   social:
     - title: paper-plane
       url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=hZK4Mk1fNQkFU0pc8KqmnoqmebM4rYreCHLtWjktEIc=
 
-- name: Rachael Huntly
-  pic: 2016-Rachael-Huntly
+- name: Joy Shih
+  pic: 2017-Joy-Shih
   position: Women's Welfare
   social:
     - title: paper-plane
       url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=gRdP7HrS7q6H_9UaOniDlG8LBgc97_eANTCGYNWoPY4=
 
-- name: Demetris Demetriou
-  pic: 2016-Demetris-Demetriou
+- name: Keerthi Senthil
+  pic: 2017-tbd
   position: Men's Welfare
   social:
     - title: paper-plane
       url: https//www.google.com/recaptcha/mailhide/d?k=01nSdl5o8KNFEmhrYtN4C-Kw==&c=c3m-YX2_hr5tGx4ugoYOw_O-Oj-W6h0z7gzNeUIQfXY=
 
-#- name: Bernardo Sarmiento
-#  pic: 2015-Bernardo-Sarmiento
-#  position: LGBT+ Welfare
+- name: Lena Moore
+  pic: 2017-tbd
+  position: LGBT Welfare
+  social:
+    - title: paper-plane
+      url: https//www.google.com/recaptcha/mailhide/d?k=01nSdl5o8KNFEmhrYtN4C-Kw==&c=c3m-YX2_hr5tGx4ugoYOw_O-Oj-W6h0z7gzNeUIQfXY=
+  # TODO: fix url 
 #  social:
 #    - title: paper-plane
 #      url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=-kvR76zRmmVis3kuLgDaoNEs7Ekh0gFRoDOmaFkQZ5I=
 
-- name: Sarah Kaewert
-  pic: 2016-Sarah-Kaewert
+- name: Natalia Elvira Astoreca
+  pic: 2017-Natalia-Elvira
   position: International Welfare
   social:
     - title: paper-plane
       url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=SQY8J09AaGPG1NYnTNlebzFWZ8fjsCOK70k3yE3uYia1l0vuNk8VUzWKcAJHZ1Xr
 
-- name: John Carpenter
-  pic: 2016-John-Carpenter
+- name: Cai Read
+  pic: 2017-Cai-Read
   position: Academic Officer
   social:
     - title: paper-plane
       url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=WWrM2esLbjx5625bc_hLlIVyGyX0rAF6bXR4E28yh3c=
 
-- name: David Pattinson
-  pic: 2016-David-Pattinson
+- name: Syamala Roberts
+  pic: 2017-Syamala-Roberts
   position: Green Officer
   social:
     - title: paper-plane
@@ -108,23 +112,19 @@ people:
     - title: paper-plane
       url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=XkoLye-sVWSQj1YOq3-VY0tr8UEt1ALcCKJrTNX_MGGjC1u5-v9k4avalobib5nj
 
-- name: Hannah Meyer
-  pic: 2016-Hannah-Meyer
+- name: Samuel Plummer
+  pic: 2017-tbd
   position: Sports Officer
   social:
     - title: paper-plane
       url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=e-pI041rLRnWFInyuaBr5imkpKJsGBigigE6kFRIuG8=
 
-- name: Jeremy Minton
-  pic: 2015-Jeremy-Minton
+- name: Krittika D'Silva
+  pic: 2017-Krittika-DSilva 
   position: Webmaster
   social:
-    - title: github
-      url: https://github.com/JJMinton
     - title: paper-plane
       url: mailto:mcr-webmaster@jesus.cam.ac.uk
-    - title: info
-      url: https//jeremyminton.co.nz
 
 # Team names, titles and social links. Any font awesome icon can be used (drop the fa)
 fellows:
