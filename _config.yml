@@ -22,102 +22,98 @@ people:
   position: President
   social:
     - title: paper-plane
-      url: https://www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=aQdyuDi7KG7H2oAxa6G1_N5KhkQaNHytGGuhzg3LD1E=
+      url: mailto:mcr-president@jesus.cam.ac.uk
 
 - name: Jennifer Holian
   pic: 2017-Jennie-Holian
   position: Vice-President
   social:
     - title: paper-plane
-      url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=BjVjndDJCy1j5clAsHoPGwZsF26Z01BiXnH93GM-90mBaykr5bmEsUAFgjdSeY23
+      url: mailto:mcr-vice-president@jesus.cam.ac.uk
 
 - name: Bee Fonseka
   pic: 2017-Bee-Fonseka
   position: Secretary
   social:
     - title: paper-plane
-      url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=s9z7dIADNWoax1H0hTLY2pmMl7bqQmfQB1y5mPyp-NY=
+      url: mailto:mcr-secretary@jesus.cam.ac.uk
 
 - name: Emma Findlay
   pic: 2017-Emma-Findlay
   position: Treasurer
   social:
     - title: paper-plane
-      url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=HSGVFgyqUuTpXgpbKaHWPcwru6rOMMLIgQZcr7_WnMU=
+      url: mailto:mcr-treasurer@jesus.cam.ac.uk
 
 - name: Anika Krause
   pic: 2017-Anika-Krause
   position: Social Officer
   social:
     - title: paper-plane
-      url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=hZK4Mk1fNQkFU0pc8KqmnoqmebM4rYreCHLtWjktEIc=
+      url: mailto:mcr-social@jesus.cam.ac.uk
 
 - name: David Jarvis
   pic: 2017-David-Jarvis
   position: Social Officer
   social:
     - title: paper-plane
-      url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=hZK4Mk1fNQkFU0pc8KqmnoqmebM4rYreCHLtWjktEIc=
+      url: mailto:mcr-social@jesus.cam.ac.uk
 
 - name: Joy Shih
   pic: 2017-Joy-Shih
   position: Women's Welfare
   social:
     - title: paper-plane
-      url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=gRdP7HrS7q6H_9UaOniDlG8LBgc97_eANTCGYNWoPY4=
+      url: mailto:mcr-womens@jesus.cam.ac.uk
 
 - name: Keerthi Senthil
-  pic: 2017-tbd
+  pic: 2017-Keerthi-Senthil
   position: Men's Welfare
   social:
     - title: paper-plane
-      url: https//www.google.com/recaptcha/mailhide/d?k=01nSdl5o8KNFEmhrYtN4C-Kw==&c=c3m-YX2_hr5tGx4ugoYOw_O-Oj-W6h0z7gzNeUIQfXY=
+      url: mailto:mcr-mens@jesus.cam.ac.uk
 
 - name: Lena Moore
-  pic: 2017-tbd
-  position: LGBT Welfare
+  pic: 2017-Lena-Moore
+  position: LGBT+ Welfare
   social:
     - title: paper-plane
-      url: https//www.google.com/recaptcha/mailhide/d?k=01nSdl5o8KNFEmhrYtN4C-Kw==&c=c3m-YX2_hr5tGx4ugoYOw_O-Oj-W6h0z7gzNeUIQfXY=
-  # TODO: fix url 
-#  social:
-#    - title: paper-plane
-#      url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=-kvR76zRmmVis3kuLgDaoNEs7Ekh0gFRoDOmaFkQZ5I=
+      url: mailto:mcr-lgbt@jesus.cam.ac.uk
 
 - name: Natalia Elvira Astoreca
   pic: 2017-Natalia-Elvira
   position: International Welfare
   social:
     - title: paper-plane
-      url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=SQY8J09AaGPG1NYnTNlebzFWZ8fjsCOK70k3yE3uYia1l0vuNk8VUzWKcAJHZ1Xr
+      url: mailto:mcr-international@jesus.cam.ac.uk
 
 - name: Cai Read
   pic: 2017-Cai-Read
   position: Academic Officer
   social:
     - title: paper-plane
-      url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=WWrM2esLbjx5625bc_hLlIVyGyX0rAF6bXR4E28yh3c=
+      url: mailto:mcr-academic@jesus.cam.ac.uk
 
-- name: Syamala Roberts
-  pic: 2017-Syamala-Roberts
+- name: Cynthia Larbey
+  pic: 2017-Cynthia-Larbey
   position: Green Officer
   social:
     - title: paper-plane
-      url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=y5IWlfBaTDz_VwDy137-0Q_SzB6h51UpnvC6Qjbdvuc=
+      url: mailto:mcr-green@jesus.cam.ac.uk
 
-- name: Silvia Basilico
-  pic: 2016-Silvia-Basilico
+- name: Ramsay Bowden
+  pic: 2017-Ramsay-Bowden
   position: College Council Representative
   social:
     - title: paper-plane
-      url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=XkoLye-sVWSQj1YOq3-VY0tr8UEt1ALcCKJrTNX_MGGjC1u5-v9k4avalobib5nj
+      url: mailto:mcr-college-council@jesus.cam.ac.uk
 
 - name: Samuel Plummer
-  pic: 2017-tbd
+  pic: 2017-Samuel-Plummer
   position: Sports Officer
   social:
     - title: paper-plane
-      url: https//www.google.com/recaptcha/mailhide/d?k=017Uowu084OmTuZwWniPbOow==&c=e-pI041rLRnWFInyuaBr5imkpKJsGBigigE6kFRIuG8=
+      url: mailto:mcr-sports@jesus.cam.ac.uk
 
 - name: Krittika D'Silva
   pic: 2017-Krittika-DSilva 
@@ -126,11 +122,19 @@ people:
     - title: paper-plane
       url: mailto:mcr-webmaster@jesus.cam.ac.uk
 
+- name: Sophia Wild
+  pic: 2017-Sophia-Wild
+  position: Freshers Representative
+  social:
+    - title: paper-plane
+      url: mailto:mcr-freshers@jesus.cam.ac.uk
+
+
 # Team names, titles and social links. Any font awesome icon can be used (drop the fa)
 fellows:
 - name: Dr Sybil Stacpoole
   pic: Fellow-Stacpoole-150x150
-  position: Assistant Deputy Graduate Tutor
+  position: Assistant Graduate Tutor
   social:
     - title: paper-plane
       url: mailto:graduate-tutor@jesus.cam.ac.uk
@@ -145,6 +149,13 @@ fellows:
 - name: Vanessa Bowman
   pic: Vanessa
   position: Graduate Administrator
+  social:
+    - title: paper-plane
+      url: mailto:graduate-tutor@jesus.cam.ac.uk
+
+- name: Michael Edwards
+  pic: Fellow-Edwards-150x150-thumb
+  position: Deputy Graduate Tutor
   social:
     - title: paper-plane
       url: mailto:graduate-tutor@jesus.cam.ac.uk
