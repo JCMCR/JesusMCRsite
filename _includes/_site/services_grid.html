@@ -1,0 +1,29 @@
+<!--  Grid Section -->
+    <section id="services" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Services</h2>
+                    <h3 class="section-subheading text-muted">What the MCR can do for you.</h3>
+                </div>
+            </div>
+            <div class="row">
+            {% for post in site.categories.services %}
+                <div class="col-md-4 col-sm-6 services-item">
+                    <a href="#servicesModal{{ post.modal-id }}" class="services-link" data-toggle="modal">
+                        <div class="services-hover">
+                            <div class="services-hover-content">
+                                <i class="fa fa-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="{{site.url}}{{ site.baseurl }}img/services/{{ post.thumbnail }}" class="img-responsive" alt="">
+                    </a>
+                    <div class="services-caption">
+                        <h4>{{ post.title }}</h4>
+                        <p class="text-muted">{{ post.subtitle }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </section>

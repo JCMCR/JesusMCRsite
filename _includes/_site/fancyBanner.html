@@ -1,0 +1,74 @@
+<!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="{{page.logoLink}}">{{site.title}}</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    {% if page.top %}
+                    <li>
+                        <a class="page-scroll" href="#page-top">{{page.top}}</a>
+                    </li>
+                    {% endif %}
+                    {% if page.menu1 and page.menu1Link %}
+                    <li>
+                        <a class="page-scroll" href="{{page.menu1Link}}">{{page.menu1}}</a>
+                    </li>
+                    {% endif %}
+                    {% if page.menu2 and page.menu2Link %}
+                    <li>
+                        <a class="page-scroll" href="{{page.menu2Link}}">{{page.menu2}}</a>
+                    </li>
+                    {% endif %}
+                    {% if page.menu3 and page.menu3Link %}
+                    <li>
+                        <a class="page-scroll" href="{{page.menu3Link}}">{{page.menu3}}</a>
+                    </li>
+                    {% endif %}
+                    {% if page.menu4 and page.menu4Link %}
+                    <li>
+                        <a class="page-scroll" href="{{page.menu4Link}}">{{page.menu4}}</a>
+                    </li>
+                    {% endif %}
+                    {% if page.menu5 and page.menu5Link %}
+                    <li>
+                        <a class="page-scroll" href="{{page.menu5Link}}">{{page.menu5}}</a>
+                    </li>
+                    {% endif %}
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                {% if page.subtitle %}
+                <div class="intro-lead-in">{{ page.subtitle }}</div>
+                {% endif %}
+                {% if page.title %}
+                <div class="intro-heading">{{ page.title }}</div>
+                {% endif %}
+                {% if page.button1 and page.button1Link %}
+                <a href="{{ page.button2Link }}" class="page-scroll btn btn-xl" data-toggle="modal">{{ page.button1 }}</a>
+                {% endif %}
+                {% if page.button2 and page.button2Link %}
+                </br></br>
+                <a href="{{ page.button2Link}}" class="page-scroll btn btn-xl">{{ page.button2 }}</a>
+                {% endif %}
+            </div>
+        </div>
+    </header>
