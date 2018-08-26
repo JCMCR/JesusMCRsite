@@ -6,7 +6,7 @@ destination: "../build"
  
 # Site settings
 title: Jesus College MCR
-email: kd400@cam.ac.uk
+email: kh562@cam.ac.uk
 description: "Jesus College MCR (Graduate Society), University of Cambridge."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -17,118 +17,117 @@ color:
 
 # Team names, titles and social links. Any font awesome icon can be used (drop the fa)
 people:
-- name: Taylor Saunders-Wood
-  pic: 2017-Taylor-Saunders-Wood
+- name: Rohan Clarke
+  pic: 2018-Rohan-Clarke
   position: President
   social:
     - title: paper-plane
       url: mailto:mcr-president@jesus.cam.ac.uk
 
-- name: Jennifer Holian
-  pic: 2017-Jennie-Holian
+- name: David Jarvis
+  pic: 2018-David-Jarvis
   position: Vice-President
   social:
     - title: paper-plane
       url: mailto:mcr-vice-president@jesus.cam.ac.uk
 
-- name: Bee Fonseka
-  pic: 2017-Bee-Fonseka
+- name: Rajesh Jethwa
+  pic: 2018-Rajesh-Jethwa
   position: Secretary
   social:
     - title: paper-plane
       url: mailto:mcr-secretary@jesus.cam.ac.uk
 
-- name: Emma Findlay
-  pic: 2017-Emma-Findlay
+- name: Peter Howle
+  pic: 2018-Peter-Howle
   position: Treasurer
   social:
     - title: paper-plane
       url: mailto:mcr-treasurer@jesus.cam.ac.uk
 
-- name: Anika Krause
-  pic: 2017-Anika-Krause
+- name: Sophia Wild
+  pic: 2018-Sophia-Wild
   position: Social Officer
   social:
     - title: paper-plane
       url: mailto:mcr-social@jesus.cam.ac.uk
 
-- name: David Jarvis
-  pic: 2017-David-Jarvis
+- name: Petr Motloch
+  pic: 2018-Petr-Motloch
   position: Social Officer
   social:
     - title: paper-plane
       url: mailto:mcr-social@jesus.cam.ac.uk
 
-- name: Joy Shih
-  pic: 2017-Joy-Shih
+- name: Lena Moore
+  pic: 2018-Lena-Moore
   position: Women's Welfare
   social:
     - title: paper-plane
       url: mailto:mcr-womens@jesus.cam.ac.uk
 
-- name: Keerthi Senthil
-  pic: 2017-Keerthi-Senthil
+- name: Fred Alford
+  pic: 2018-Fred-Alford
   position: Men's Welfare
   social:
     - title: paper-plane
       url: mailto:mcr-mens@jesus.cam.ac.uk
 
-- name: Lena Moore
-  pic: 2017-Lena-Moore
+- name: Bee Fonseka
+  pic: 2018-Bee-Fonseka
   position: LGBT+ Welfare
   social:
     - title: paper-plane
       url: mailto:mcr-lgbt@jesus.cam.ac.uk
 
-- name: Natalia Elvira Astoreca
-  pic: 2017-Natalia-Elvira
+- name: Anika Krause
+  pic: 2018-Anika-Krause
   position: International Welfare
   social:
     - title: paper-plane
       url: mailto:mcr-international@jesus.cam.ac.uk
 
-- name: Cai Read
-  pic: 2017-Cai-Read
+- name: James Warland
+  pic: 2018-James-Warland
   position: Academic Officer
   social:
     - title: paper-plane
       url: mailto:mcr-academic@jesus.cam.ac.uk
 
-- name: Cynthia Larbey
-  pic: 2017-Cynthia-Larbey
+- name: Bethany Connolly
+  pic: 2018-Bethany-Connolly
   position: Green Officer
   social:
     - title: paper-plane
       url: mailto:mcr-green@jesus.cam.ac.uk
 
 - name: Ramsay Bowden
-  pic: 2017-Ramsay-Bowden
+  pic: 2018-Ramsay-Bowden
   position: College Council Representative
   social:
     - title: paper-plane
       url: mailto:mcr-college-council@jesus.cam.ac.uk
 
-- name: Samuel Plummer
-  pic: 2017-Samuel-Plummer
+- name: Alex Gutai
+  pic: 2018-Alex-Gutai
   position: Sports Officer
   social:
     - title: paper-plane
       url: mailto:mcr-sports@jesus.cam.ac.uk
 
-- name: Krittika D'Silva
-  pic: 2017-Krittika-DSilva 
+- name: Kevin Heffernan
+  pic: 2018-Kevin-Heffernan 
   position: Webmaster
   social:
     - title: paper-plane
       url: mailto:mcr-webmaster@jesus.cam.ac.uk
 
-- name: Sophia Wild
-  pic: 2017-Sophia-Wild
-  position: Freshers Representative
-  social:
-    - title: paper-plane
-      url: mailto:mcr-freshers@jesus.cam.ac.uk
-
+#- name: Sophia Wild
+#  pic: 2017-Sophia-Wild
+#  position: Freshers Representative
+#  social:
+#    - title: paper-plane
+#      url: mailto:mcr-freshers@jesus.cam.ac.uk
 
 # Team names, titles and social links. Any font awesome icon can be used (drop the fa)
 fellows:
